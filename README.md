@@ -11,7 +11,7 @@ I’m a cybersecurity enthusiast and ethical hacker, with real-world experience 
 * ✉️  You can contact me at [aniket.gmu@gmail.com](mailto:aniket.gmu@gmail.com)
 * 🚀  I'm currently working on [Data Wiping Tool ( Basic )](http://.)
 * 🧠  I'm currently learning Advanced OSINT investigation techniques and cybersecurity frameworks
-* 👥  I'm looking to collaborate on Security training modules, open-source cybersecurity tools, ethical hacking challenges
+* 👥  I'm looking to collaborate on Security training modules, open-source cybersecurity tools, ethical hacking challenges.
 * 💬  Ask me about Check out my TryHackMe profile: https://tryhackme.com/p/D4rkMatrix
 
 <p align="left">
