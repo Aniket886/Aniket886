@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aniket Tegginamath
 ===========================================================================================================================================
 
-Web Dev | Cybersecurity Trainer | Hacker | Cybercrime Investigator | Dark-web Researcher | Vibe Coding
+Web Dev | Cybersecurity Trainer | Hacker | Cybercrime Investigator | Researcher | Vibe Coding
 ------------------------------------------------------------------------------------------------------
 
 I’m a cybersecurity enthusiast and ethical hacker, with real-world experience as a trainer for students at a startup, where I guided aspiring learners in ethical hacking and digital security. Beyond security, I enjoy web development with HTML and CSS, bringing ideas to life on the web. One of my exciting projects is a Telegram bot integrated with a website, designed to capture system information, trigger geo-location, and instantly deliver the data to my Telegram account. Currently, I’m pursuing my BCA at GM University, where I continue exploring the intersection of web development and cybersecurity to create impactful digital solutions.
