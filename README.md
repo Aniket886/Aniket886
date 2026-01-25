@@ -1,47 +1,95 @@
- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aniket Tegginamath
-===========================================================================================================================================
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Aniket+Tegginamath;Cybersecurity+Trainer;Cybercrime+Investigator;Vibe+Coder" alt="Typing SVG" />
+</div>
 
-Web Dev | Cybersecurity Trainer | Hacker | Cybercrime Investigator | Researcher | Vibe Coding
-------------------------------------------------------------------------------------------------------
+<div align="center">
+  <i>"Decrypting the web, one vulnerability at a time."</i>
+</div>
 
-I’m a cybersecurity enthusiast and ethical hacker, with real-world experience as a trainer for students at a startup, where I guided aspiring learners in ethical hacking and digital security. Beyond security, I enjoy web development with HTML and CSS, bringing ideas to life on the web. One of my exciting projects is a Telegram bot integrated with a website, designed to capture system information, trigger geo-location, and instantly deliver the data to my Telegram account. Currently, I’m pursuing my BCA at GM University, where I continue exploring the intersection of web development and cybersecurity to create impactful digital solutions.
+<br />
 
-* 🌍  I'm based in Bangalore
-* 🖥️  See my portfolio at [Medium](http://medium.com/@anikettegginamath)
-* ✉️  You can contact me at [aniket.gmu@gmail.com](mailto:aniket.gmu@gmail.com)
-* 🚀  I'm currently working on [Data Wiping Tool ( Basic )](https://aniket886.github.io/datawipingtool/#download)
-* 🧠  I'm currently learning Advanced OSINT investigation techniques and cybersecurity frameworks.
-* 👥  I'm looking to collaborate on Security training modules, open-source cybersecurity tools, ethical hacking challenges.
-* 💬  Ask me about Check out my TryHackMe profile: https://tryhackme.com/p/D4rkMatrix
+<div align="center">
+  <a href="https://www.github.com/Aniket886" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+  </a>
+  <a href="https://www.linkedin.com/in/aniket-tegginamath-420324251/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="http://medium.com/@anikettegginamath" target="_blank">
+    <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.youtube.com/@anonymous_3301x" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:aniket.gmu@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-<p align="left">
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a>
-</p>
+<br />
 
-### Socials
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>👨🏻‍💻 Identify</h3>
+      <br>
+      <ul>
+        <li><b>Origins:</b> Based in Bangalore, India 🌍</li>
+        <li><b>Current Quest:</b> Pursuing BCA at GM University.</li>
+        <li><b>Specialization:</b> OSINT, Digital Forensics, & Ethical Hacking.</li>
+        <li><b>Teaching:</b> Ex-Trainer for startup cybersecurity cohorts.</li>
+        <li><b>Philosophy:</b> Bridging the gap between <i>Web Development</i> and <i>Digital Security</i>.</li>
+        <li><b>Recent Project:</b> <a href="https://aniket886.github.io/datawipingtool/#download">Data Wiping Tool (Basic)</a> 🚀</li>
+      </ul>
+      <br />
+      <a href="https://tryhackme.com/p/D4rkMatrix">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/D4rkMatrix.png" alt="TryHackMe" />
+      </a>
+    </td>
+    <td width="45%" valign="top">
+      <h3>🛠 The Arsenal</h3>
+      <br>
+      <img src="https://skillicons.dev/icons?i=python,c,java,bash,js" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,nodejs,mysql,vscode" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,arduino" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=ps,pr" />
+    </td>
+  </tr>
+</table>
 
-<p align="left"> <a href="https://www.github.com/Aniket886" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="http://www.medium.com/@anikettegginamath" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.youtube.com/@anonymous_3301x" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://www.linkedin.com/in/aniket-tegginamath-420324251/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/Aniket886" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Aniket886?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<br/>
 
-### Badges
+<h3 align="center">📊 The Matrix</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniket886&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket886&langs_count=6&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="150" />
+</div>
+<br />
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket886&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</div>
 
-<b>My GitHub Stats</b>
+<br />
 
-<a href="http://www.github.com/Aniket886"><img src="https://github-readme-stats.vercel.app/api?username=Aniket886&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aniket886's GitHub stats" /></a>
+<h3 align="center">📂 Top Protocols</h3>
+<div align="center">
+  <a href="https://github.com/Aniket886/system-info-terminal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=system-info-terminal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/Aniket886/Caesar_Cipher">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=Caesar_Cipher&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
 
-<a href="http://www.github.com/Aniket886"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket886&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br />
+<hr />
 
-<a href="https://github.com/Aniket886" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket886&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Aniket886/system-info-terminal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=system-info-terminal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Aniket886/Caesar_Cipher" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=Caesar_Cipher&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/aniket_tegginamath"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+<div align="center">
+  <p>Looking to collaborate on Open Source Security Tools? <a href="mailto:aniket.gmu@gmail.com">Ping me.</a></p>
+  <a href="https://www.buymeacoffee.com/aniket_tegginamath">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="140" alt="Buy Me A Coffee" />
+  </a>
+</div>
