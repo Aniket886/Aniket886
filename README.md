@@ -43,7 +43,7 @@
       </ul>
       <br />
       <a href="https://tryhackme.com/p/D4rkMatrix">
-        <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1957083" style='border:none;'></iframe>
+        <img src="https://tryhackme-badges.s3.amazonaws.com/D4rkMatrix.png" alt="TryHackMe" />
       </a>
     </td>
     <td width="45%" valign="top">
