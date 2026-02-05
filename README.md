@@ -42,8 +42,8 @@
         <li><b>Recent Project:</b> <a href="https://aniket886.github.io/datawipingtool/#download">Data Wiping Tool (Basic)</a> 🚀</li>
       </ul>
       <br />
-      <a href="https://tryhackme.com/p/D4rkMatrix">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/D4rkMatrix.png" alt="TryHackMe" />
+      <a href="https://tryhackme.com/p/D4rkMatrix" target="_blank">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/D4rkMatrix.png" alt="TryHackMe Live Badge" />
       </a>
     </td>
     <td width="45%" valign="top">
@@ -91,13 +91,5 @@
   <p>Looking to collaborate on Open Source Security Tools? <a href="mailto:aniket.gmu@gmail.com">Ping me.</a></p>
   <a href="https://www.buymeacoffee.com/aniket_tegginamath">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="140" alt="Buy Me A Coffee" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://tryhackme.com/p/D4rkMatrix" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/D4rkMatrix.png" alt="TryHackMe Live Badge" />
   </a>
 </div>
