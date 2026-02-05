@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Decrypting+the+web,+one+vulnerability+at+a+time.;OSINT+%7C+Digital+Forensics+%7C+Ethical+Hacking;Bridging+Web+Dev+and+Digital+Security" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Decrypting+the+web,+one+vulnerability+at+a+time.;OSINT+%7C+Digital+Forensics+%7C+Ethical+Hacking;Bridging+Web+Dev+and+Digital+Security" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,8 +30,9 @@
 
 <table align="center" border="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="55%" valign="top">
       <h3 align="center">👨🏻‍💻 Operational Status</h3>
+      <br>
       <ul>
         <li><b>📍 Base:</b> Bangalore, India 🇮🇳</li>
         <li><b>🎓 Education:</b> BCA @ GM University</li>
@@ -39,14 +40,16 @@
         <li><b>💼 Experience:</b> Ex-Trainer (Cybersecurity)</li>
         <li><b>🚀 Latest:</b> <a href="https://aniket886.github.io/datawipingtool/#download">Data Wiping Tool</a></li>
       </ul>
+      <br />
       <div align="center">
         <a href="https://tryhackme.com/p/D4rkMatrix" target="_blank">
-           <img src="https://tryhackme-badges.s3.amazonaws.com/D4rkMatrix.png" alt="TryHackMe Badge" height="120" />
+           <img src="https://tryhackme-badges.s3.amazonaws.com/D4rkMatrix.png" alt="TryHackMe Badge" width="100%" />
         </a>
       </div>
     </td>
-    <td width="50%" valign="top">
+    <td width="45%" valign="top">
       <h3 align="center">🛠 The Arsenal</h3>
+      <br>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=python,c,java,bash,js,html,css,nodejs,mysql,linux,kali,ubuntu,arduino,ps,pr&perline=5&theme=dark" />
       </div>
@@ -58,14 +61,14 @@
 
 <h3 align="center">📊 The Matrix</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniket886&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0,000000,130F40&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket886&langs_count=6&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0,000000,130F40&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniket886&show_icons=true&hide=issues,contribs&count_private=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket886&langs_count=6&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aniket886&stroke=ffffff&background=0,000000,130F40&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Aniket886&theme=tokyonight&hide_border=true" />
 </div>
 
 <br />
@@ -73,10 +76,10 @@
 <h3 align="center">📂 Classified Projects</h3>
 <div align="center">
   <a href="https://github.com/Aniket886/system-info-terminal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=system-info-terminal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0,000000,130F40&hide_border=true&locale=en" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=system-info-terminal&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Aniket886/passtrenghchecker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=passtrenghchecker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0,000000,130F40&hide_border=true&locale=en" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=passtrenghchecker&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
