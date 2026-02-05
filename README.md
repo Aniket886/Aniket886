@@ -93,3 +93,11 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="140" alt="Buy Me A Coffee" />
   </a>
 </div>
+
+<br />
+
+<div align="center">
+  <a href="https://tryhackme.com/p/D4rkMatrix" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/D4rkMatrix.png" alt="TryHackMe Live Badge" />
+  </a>
+</div>
