@@ -27,23 +27,17 @@
 
 <br>
 
-<table align="center" border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📟 Script Execution (Skills)</h3>
-      <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,c,java,js,nodejs,mysql&theme=dark&perline=5" />
-      <br><br>
-      <h3>🛰️ Active Recon (Current Focus)</h3>
-      <img src="https://img.shields.io/badge/FOCUS-OSINT-brightgreen?style=flat-square" />
-      <img src="https://img.shields.io/badge/FOCUS-Digital_Forensics-brightgreen?style=flat-square" />
-      <img src="https://img.shields.io/badge/FOCUS-Ethical_Hacking-brightgreen?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📉 Network Traffic (Stats)</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Aniket886&show_icons=true&hide=issues,contribs&count_private=true&title_color=20C20E&text_color=20C20E&icon_color=20C20E&bg_color=000000&hide_border=true" height="140" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>📟 Script Execution (Skills)</h3>
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,c,java,js,nodejs,mysql&theme=dark&perline=9" />
+  
+  <br><br>
+
+  <h3>🛰️ Active Recon (Current Focus)</h3>
+  <img src="https://img.shields.io/badge/FOCUS-OSINT-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/FOCUS-Digital_Forensics-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/FOCUS-Ethical_Hacking-brightgreen?style=flat-square" />
+</div>
 
 <br>
 
