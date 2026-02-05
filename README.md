@@ -69,7 +69,7 @@
 </div>
 <br />
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket886&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Aniket886&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </div>
 
 <br />
@@ -77,10 +77,10 @@
 <h3 align="center">📂 Top Protocols</h3>
 <div align="center">
   <a href="https://github.com/Aniket886/system-info-terminal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=system-info-terminal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=system-info-terminal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/Aniket886/Caesar_Cipher">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=Caesar_Cipher&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=Caesar_Cipher&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
 
