@@ -80,7 +80,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=system-info-terminal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/Aniket886/tech-carnival-site.git">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=Tech_Carnival&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=tech-carnival-site&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
 
