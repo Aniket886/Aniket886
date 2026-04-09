@@ -1,95 +1,183 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Aniket+Tegginamath;Cybersecurity+Trainer;Cybercrime+Investigator;Vibe+Coder" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,35:18213A,70:1F6FEB,100:7EE787&text=Aniket%20Tegginamath&fontColor=E6EDF3&fontSize=42&fontAlignY=38&desc=Cybersecurity%20Builder%20%7C%20Investigator%20%7C%20Trainer&descAlignY=56&animation=fadeIn" alt="Aniket Tegginamath banner" />
 </div>
 
 <div align="center">
-  <i>"Decrypting the web, one vulnerability at a time."</i>
+  <h3>Building secure systems, investigating digital threats, and shipping tools that make the web harder to break.</h3>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Aniket886&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/Aniket886?label=Followers&style=for-the-badge&color=7ee787&labelColor=111827" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/stars/Aniket886?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=38bdf8&labelColor=111827" alt="GitHub stars" />
+  </p>
 </div>
-
-<br />
 
 <div align="center">
   <a href="https://www.github.com/Aniket886" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/aniket-tegginamath-420324251/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="http://medium.com/@anikettegginamath" target="_blank">
-    <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://www.youtube.com/@anonymous_3301x" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="mailto:aniket.gmu@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <br />
 
-<table border="0" width="100%">
+<table width="100%">
   <tr>
-    <td width="55%" valign="top">
-      <h3>👨🏻‍💻 Identify</h3>
-      <br>
-      <ul>
-        <li><b>Origins:</b> Based in Bangalore, India 🌍</li>
-        <li><b>Current Quest:</b> Pursuing BCA at GM University.</li>
-        <li><b>Specialization:</b> OSINT, Digital Forensics, & Ethical Hacking.</li>
-        <li><b>Teaching:</b> Ex-Trainer for startup cybersecurity cohorts.</li>
-        <li><b>Philosophy:</b> Bridging the gap between <i>Web Development</i> and <i>Digital Security</i>.</li>
-        <li><b>Recent Project:</b> <a href="https://aniket886.github.io/datawipingtool/#download">Data Wiping Tool (Basic)</a> 🚀</li>
-      </ul>
-      <br />
-      <a href="https://tryhackme.com/p/D4rkMatrix" target="_blank">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/D4rkMatrix.png" alt="TryHackMe Badge" />
-      </a>
+    <td width="58%" valign="top">
+      <h2>Cyber + Builder</h2>
+      <p>
+        I work at the intersection of cybersecurity, digital investigation, and product engineering.
+        My focus is on OSINT, digital forensics, ethical hacking, and building practical tools that turn security ideas into working systems.
+      </p>
+      <p>
+        I am based in Bangalore, India, currently pursuing BCA at GM University, and I have trained startup cohorts on cybersecurity fundamentals and threat awareness.
+      </p>
+      <p>
+        Current direction: stronger secure-by-design engineering, better investigation workflows, and sharper developer tooling for real-world use.
+      </p>
     </td>
-    <td width="45%" valign="top">
-      <h3>🛠 The Arsenal</h3>
-      <br>
-      <img src="https://skillicons.dev/icons?i=python,c,java,bash,js" />
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,nodejs,mysql,vscode" />
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,arduino" />
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=ps,pr" />
+    <td width="42%" valign="top">
+      <h2>Current Focus</h2>
+      <p>
+        <strong>Mission:</strong> Bridge web development with digital security.
+      </p>
+      <p>
+        <strong>Working on:</strong> security tooling, applied AI projects, and sharper developer experiences.
+      </p>
+      <p>
+        <strong>Open to:</strong> collaboration on security tools, cyber awareness products, and useful open-source builds.
+      </p>
+      <p>
+        <strong>Featured live project:</strong><br />
+        <a href="https://aniket886.github.io/datawipingtool/#download">Data Wiping Tool</a>
+      </p>
     </td>
   </tr>
 </table>
 
-<br/>
-
-<h3 align="center">📊 The Matrix</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniket886&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket886&langs_count=6&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="150" />
-</div>
-<br />
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket886&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</div>
-
 <br />
 
-<h3 align="center">📂 Top Protocols</h3>
+<h2 align="center">Tech Stack</h2>
+
 <div align="center">
-  <a href="https://github.com/Aniket886/system-info-terminal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=system-info-terminal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/Aniket886/tech-carnival-site.git">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=tech-carnival-site&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
+  <strong>Security + Investigation</strong><br />
+  <img src="https://img.shields.io/badge/OSINT-111827?style=for-the-badge&logo=proton&logoColor=7EE787" alt="OSINT" />
+  <img src="https://img.shields.io/badge/Digital%20Forensics-111827?style=for-the-badge&logo=datadog&logoColor=38BDF8" alt="Digital Forensics" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Ethical Hacking" />
+  <img src="https://img.shields.io/badge/Cyber%20Training-111827?style=for-the-badge&logo=readthedocs&logoColor=F59E0B" alt="Cyber Training" />
 </div>
 
 <br />
-<hr />
 
 <div align="center">
-  <p>Looking to collaborate on Open Source Security Tools? <a href="mailto:aniket.gmu@gmail.com">Ping me.</a></p>
+  <strong>Languages</strong><br />
+  <img src="https://skillicons.dev/icons?i=python,c,java,bash,js" alt="Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <strong>Web + App Tooling</strong><br />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,mysql,vscode,git,github" alt="Web and app tooling" />
+</div>
+
+<br />
+
+<div align="center">
+  <strong>Platforms + Environment</strong><br />
+  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,arduino,ps,pr" alt="Platforms and tools" />
+</div>
+
+<br />
+
+<h2 align="center">Live Metrics</h2>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aniket886&show_icons=true&count_private=true&hide_border=true&rank_icon=github&title_color=7EE787&text_color=C9D1D9&icon_color=38BDF8&bg_color=0D1117" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket886&layout=compact&langs_count=8&hide_border=true&title_color=7EE787&text_color=C9D1D9&icon_color=38BDF8&bg_color=0D1117" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Aniket886&hide_border=true&background=0D1117&ring=7EE787&fire=38BDF8&currStreakLabel=7EE787&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aniket886&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=7ee787&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution activity graph" />
+</div>
+
+<br />
+
+<h2 align="center">Contribution Snake</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="./assets/github-snake.svg" />
+  </picture>
+</div>
+
+<br />
+
+<h2 align="center">Mission Control</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Command Panel</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Building%20Secure%20Tools-111827?style=flat-square&logo=buffer&logoColor=7EE787" alt="Status" />
+        <br />
+        <img src="https://img.shields.io/badge/Region-Bangalore%2C%20India-111827?style=flat-square&logo=googlemaps&logoColor=38BDF8" alt="Region" />
+        <br />
+        <img src="https://img.shields.io/badge/Mode-Cyber%20%2B%20Builder-111827?style=flat-square&logo=windowsterminal&logoColor=F59E0B" alt="Mode" />
+        <br />
+        <img src="https://img.shields.io/badge/Focus-OSINT%20%7C%20Forensics%20%7C%20Web%20Security-111827?style=flat-square&logo=target&logoColor=F472B6" alt="Focus" />
+        <br />
+        <img src="https://img.shields.io/badge/Currently-Learning%20secure%20engineering%20patterns-111827?style=flat-square&logo=bookstack&logoColor=A78BFA" alt="Currently learning" />
+      </p>
+      <p>
+        <strong>Signal:</strong> I prefer practical, working systems over theory-only demos.<br />
+        <strong>Intent:</strong> Build tools that help people investigate, understand, and defend.
+      </p>
+      <p>
+        <a href="https://tryhackme.com/p/D4rkMatrix" target="_blank">
+          <img src="https://tryhackme-badges.s3.amazonaws.com/D4rkMatrix.png" alt="TryHackMe badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Project Radar</h3>
+      <a href="https://github.com/Aniket886/system-info-terminal">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=system-info-terminal&hide_border=true&title_color=7EE787&text_color=C9D1D9&icon_color=38BDF8&bg_color=0D1117" alt="system-info-terminal" />
+      </a>
+      <br />
+      <a href="https://github.com/Aniket886/tech-carnival-site">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=tech-carnival-site&hide_border=true&title_color=7EE787&text_color=C9D1D9&icon_color=38BDF8&bg_color=0D1117" alt="tech-carnival-site" />
+      </a>
+      <br />
+      <a href="https://github.com/Aniket886/password_toolkit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=password_toolkit&hide_border=true&title_color=7EE787&text_color=C9D1D9&icon_color=38BDF8&bg_color=0D1117" alt="password_toolkit" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="center">
+  <p><strong>Open to collaborations in cybersecurity, tooling, and useful open-source products.</strong></p>
   <a href="https://www.buymeacoffee.com/aniket_tegginamath">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="140" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me A Coffee" />
   </a>
 </div>
