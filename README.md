@@ -31,6 +31,12 @@
 
 <br />
 
+<div align="center">
+  <img src="https://media1.tenor.com/m/NOYF3f82b_gAAAAd/programmer.gif" width="340" alt="Cyber builder desk animation" />
+</div>
+
+<br />
+
 <table width="100%">
   <tr>
     <td width="58%" valign="top">
