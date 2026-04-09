@@ -109,11 +109,6 @@
 <h2 align="center">Live Metrics</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aniket886&show_icons=true&count_private=true&hide_border=true&rank_icon=github&title_color=7EE787&text_color=C9D1D9&icon_color=38BDF8&bg_color=0D1117" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket886&layout=compact&langs_count=8&hide_border=true&title_color=7EE787&text_color=C9D1D9&icon_color=38BDF8&bg_color=0D1117" alt="Top languages" />
-</div>
-
-<div align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=Aniket886&hide_border=true&background=0D1117&ring=7EE787&fire=38BDF8&currStreakLabel=7EE787&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
 </div>
 
