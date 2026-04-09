@@ -158,17 +158,32 @@
     </td>
     <td width="50%" valign="top">
       <h3>Project Radar</h3>
-      <a href="https://github.com/Aniket886/system-info-terminal">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=system-info-terminal&hide_border=true&title_color=7EE787&text_color=C9D1D9&icon_color=38BDF8&bg_color=0D1117" alt="system-info-terminal" />
-      </a>
-      <br />
-      <a href="https://github.com/Aniket886/tech-carnival-site">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=tech-carnival-site&hide_border=true&title_color=7EE787&text_color=C9D1D9&icon_color=38BDF8&bg_color=0D1117" alt="tech-carnival-site" />
-      </a>
-      <br />
-      <a href="https://github.com/Aniket886/password_toolkit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket886&repo=password_toolkit&hide_border=true&title_color=7EE787&text_color=C9D1D9&icon_color=38BDF8&bg_color=0D1117" alt="password_toolkit" />
-      </a>
+      <p><strong>Recent high-work repos from the last 6 months</strong></p>
+      <p>
+        <a href="https://github.com/Aniket886/hand-gestures"><strong>hand-gestures</strong></a><br />
+        ArcMotion build with the heaviest recent commit activity: spatial interaction, gesture tracking, voice controls, and UI refinements.
+        <br />
+        <img src="https://img.shields.io/github/last-commit/Aniket886/hand-gestures?style=flat-square&label=last%20push&color=7EE787&labelColor=111827" alt="hand-gestures last push" />
+        <img src="https://img.shields.io/badge/Signal-Highest%20recent%20commit%20activity-111827?style=flat-square&logo=github&logoColor=38BDF8" alt="Highest recent commit activity" />
+      </p>
+      <p>
+        <a href="https://github.com/Aniket886/terralens"><strong>terralens</strong></a><br />
+        Recent product work with active iteration in early April.
+        <br />
+        <img src="https://img.shields.io/github/last-commit/Aniket886/terralens?style=flat-square&label=last%20push&color=7EE787&labelColor=111827" alt="terralens last push" />
+      </p>
+      <p>
+        <a href="https://github.com/Aniket886/tech-carnival-site"><strong>tech-carnival-site</strong></a><br />
+        Event-site and frontend execution work that stayed active through late March.
+        <br />
+        <img src="https://img.shields.io/github/last-commit/Aniket886/tech-carnival-site?style=flat-square&label=last%20push&color=7EE787&labelColor=111827" alt="tech-carnival-site last push" />
+      </p>
+      <p>
+        <a href="https://github.com/Aniket886/Date-Time-Offset-Application"><strong>Date-Time-Offset-Application</strong></a><br />
+        Utility-focused build that also saw recent shipping activity inside the same 6-month window.
+        <br />
+        <img src="https://img.shields.io/github/last-commit/Aniket886/Date-Time-Offset-Application?style=flat-square&label=last%20push&color=7EE787&labelColor=111827" alt="Date-Time-Offset-Application last push" />
+      </p>
     </td>
   </tr>
 </table>
