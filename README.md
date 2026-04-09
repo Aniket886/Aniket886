@@ -32,7 +32,7 @@
 <br />
 
 <div align="center">
-  <img src="./assets/cyber-builder-scene.svg" width="720" alt="Cyber builder scene" />
+  <img src="./assets/when-i-lose-a-game.gif" width="360" alt="Cyber builder at desk after another game loss" />
 </div>
 
 <br />
