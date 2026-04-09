@@ -32,7 +32,7 @@
 <br />
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/NOYF3f82b_gAAAAd/programmer.gif" width="340" alt="Cyber builder desk animation" />
+  <img src="./assets/cyber-builder-scene.svg" width="720" alt="Cyber builder scene" />
 </div>
 
 <br />
