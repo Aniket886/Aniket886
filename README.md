@@ -106,6 +106,13 @@
 
 <br />
 
+<div align="center">
+  <strong>Design &amp; No-Code</strong><br />
+  <img src="https://skillicons.dev/icons?i=framer" alt="Framer" />
+  <img src="https://img.shields.io/badge/Wix%20Studio-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Studio" />
+  <img src="https://img.shields.io/badge/Universe.io-6C2BD9?style=for-the-badge&logo=circle&logoColor=white" alt="Universe.io" />
+</div>
+
 <h2 align="center">Live Metrics</h2>
 
 <div align="center">
