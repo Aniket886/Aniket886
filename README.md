@@ -101,7 +101,8 @@
 
 <div align="center">
   <strong>Platforms + Environment</strong><br />
-  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,arduino,ps,pr,vercel,cloudflare,render,replit" alt="Platforms and tools" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,arduino,ps,pr,vloudflare,render,replit" alt="Platforms and tools" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
     <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=webhooks&logoColor=white" alt="Webhooks" />
 </div>
