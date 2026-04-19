@@ -101,9 +101,11 @@
 
 <div align="center">
   <strong>Platforms + Environment</strong><br />
-  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,arduino,ps,pr,vloudflare,render,replit" alt="Platforms and tools" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-    <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,arduino,ps,pr,cloudflare,vercel" alt="Platforms and tools" />
+  <br />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=webhooks&logoColor=white" alt="Webhooks" />
 </div>
 
@@ -124,7 +126,7 @@
   <img src="https://img.shields.io/badge/Opencode-1A1A2E?style=for-the-badge&logo=terminal&logoColor=00FF9F" alt="Opencode" />
   <img src="https://img.shields.io/badge/Local%20LLM-6B21A8?style=for-the-badge&logo=huggingface&logoColor=white" alt="Local LLM" />
   <img src="https://img.shields.io/badge/Openclaw-00B4D8?style=for-the-badge&logo=claw&logoColor=white" alt="Openclaw" />
-    <img src="https://img.shields.io/badge/Perplexity%20Pro-20808D?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity Pro" />
+  <img src="https://img.shields.io/badge/Perplexity%20Pro-20808D?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity Pro" />
 </div>
 
 <h2 align="center">Live Metrics</h2>
