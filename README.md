@@ -123,6 +123,7 @@
   <img src="https://img.shields.io/badge/Opencode-1A1A2E?style=for-the-badge&logo=terminal&logoColor=00FF9F" alt="Opencode" />
   <img src="https://img.shields.io/badge/Local%20LLM-6B21A8?style=for-the-badge&logo=huggingface&logoColor=white" alt="Local LLM" />
   <img src="https://img.shields.io/badge/Openclaw-00B4D8?style=for-the-badge&logo=claw&logoColor=white" alt="Openclaw" />
+    <img src="https://img.shields.io/badge/Perplexity%20Pro-20808D?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity Pro" />
 </div>
 
 <h2 align="center">Live Metrics</h2>
