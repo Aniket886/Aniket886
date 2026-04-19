@@ -101,7 +101,9 @@
 
 <div align="center">
   <strong>Platforms + Environment</strong><br />
-  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,arduino,ps,pr,vercel,cloudflare" alt="Platforms and tools" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,arduino,ps,pr,vercel,cloudflare,render,replit" alt="Platforms and tools" />
+    <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=webhooks&logoColor=white" alt="Webhooks" />
 </div>
 
 <br />
@@ -111,6 +113,16 @@
   <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
   <img src="https://img.shields.io/badge/Wix%20Studio-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Studio" />
   <img src="https://img.shields.io/badge/Universe.io-6C2BD9?style=for-the-badge&logo=circle&logoColor=white" alt="Universe.io" />
+</div>
+
+<div align="center">
+  <strong>AI Tools &amp; Agents</strong><br />
+  <img src="https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Opencode-1A1A2E?style=for-the-badge&logo=terminal&logoColor=00FF9F" alt="Opencode" />
+  <img src="https://img.shields.io/badge/Local%20LLM-6B21A8?style=for-the-badge&logo=huggingface&logoColor=white" alt="Local LLM" />
+  <img src="https://img.shields.io/badge/Openclaw-00B4D8?style=for-the-badge&logo=claw&logoColor=white" alt="Openclaw" />
 </div>
 
 <h2 align="center">Live Metrics</h2>
