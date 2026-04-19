@@ -87,21 +87,21 @@
 
 <div align="center">
   <strong>Languages</strong><br />
-  <img src="https://skillicons.dev/icons?i=python,c,java,bash,js" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,bash,js,ts" alt="Languages" />
 </div>
 
 <br />
 
 <div align="center">
   <strong>Web + App Tooling</strong><br />
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,mysql,vscode,git,github" alt="Web and app tooling" />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,mysql,vscode,git,github,react,tailwind,vite" alt="Web and app tooling" />
 </div>
 
 <br />
 
 <div align="center">
   <strong>Platforms + Environment</strong><br />
-  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,arduino,ps,pr" alt="Platforms and tools" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,arduino,ps,pr,vercel,cloudflare" alt="Platforms and tools" />
 </div>
 
 <br />
