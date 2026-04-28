@@ -134,8 +134,25 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="160">
-        <img width="140" src="./badges/earthBadge.png" alt="Earth Badge" />
+      <td align="center" width="280">
+        <img width="240" src="./badges/earthBadge.png" alt="Earth Badge" />
+        <br /><br />
+        <img width="240" src="./badges/google-cybersecurity-certificate.png" alt="Google Cybersecurity Certificate" />
+        <br /><br />
+        <img width="240" src="./badges/introduction-to-cybersecurity.png" alt="Introduction to Cybersecurity" />
+        <br /><br />
+        <img width="240" src="./badges/OhSINT.png" alt="OhSINT Badge" />
+        <br /><br />
+        <img width="240" src="./badges/Hash.png" alt="Hash Badge" />
+      </td>
+      <td align="center" width="280">
+        <img width="240" src="./badges/Yeti.png" alt="Yeti Badge" />
+        <br /><br />
+        <img width="240" src="./badges/2019.png" alt="2019 Badge" />
+        <br /><br />
+        <img width="240" src="./badges/365.png" alt="365 Badge" />
+        <br /><br />
+        <img width="240" src="./badges/500.png" alt="500 Badge" />
       </td>
     </tr>
   </table>
