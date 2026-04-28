@@ -6,37 +6,43 @@
   <line x1="165" y1="28" x2="165" y2="167" stroke="#30363D" stroke-width="1"/>
   <line x1="330" y1="28" x2="330" y2="167" stroke="#30363D" stroke-width="1"/>
 
-  <!-- Total Contributions -->
-  <g transform="translate(82.5,97)">
-    <text y="-45" text-anchor="middle" fill="#8B949E"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="11">Jan 1, 2026 – Apr 28, 2026</text>
-    <text y="8" text-anchor="middle" fill="#FFFFFF"
+  <!-- LEFT: Total Contributions -->
+  <g transform="translate(82.5,87)">
+    <text y="-4" text-anchor="middle" fill="#FFFFFF"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="32" font-weight="700">6293</text>
-    <text y="32" text-anchor="middle" fill="#C9D1D9"
+    <text y="22" text-anchor="middle" fill="#C9D1D9"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="14">Total Contributions</text>
+    <text y="60" text-anchor="middle" fill="#8B949E"
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="11">Jan 1, 2026 - Apr 28, 2026</text>
   </g>
 
-  <!-- Current Streak -->
-  <g transform="translate(247.5,97)">
-    <circle cx="0" cy="0" r="40" fill="none" stroke="#E8570A" stroke-width="5"/>
-    <!-- flame emoji stand-in -->
-    <text y="-52" text-anchor="middle" fill="#8B949E"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="10">Apr 3, 2026 – Apr 28, 2026</text>
-    <text y="10" text-anchor="middle" fill="#FFFFFF"
+  <!-- CENTER: Current Streak -->
+  <g transform="translate(247.5,86)">
+    <!-- Flame icon sitting on top of ring (ring top is at y=-38) -->
+    <g transform="translate(0,-54)">
+      <path fill="#E8570A" d="M0-15C-6-10-10-3-9 4-8 10-4 15 0 15 4 15 8 10 9 4 10-3 6-10 0-15Z"/>
+      <path fill="#ffa040" opacity="0.85" d="M0-6C-3-2-4 3-3 7-2 9 0 11 0 11 0 11 2 9 3 7 4 3 3-2 0-6Z"/>
+    </g>
+    <!-- Ring -->
+    <circle cx="0" cy="0" r="38" fill="none" stroke="#E8570A" stroke-width="5"/>
+    <!-- Number inside ring -->
+    <text y="11" text-anchor="middle" fill="#FFFFFF"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="28" font-weight="700">26</text>
-    <text y="28" text-anchor="middle" fill="#8B949E"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="11">days</text>
-    <text y="62" text-anchor="middle" fill="#E8570A"
+    <!-- Label below ring -->
+    <text y="58" text-anchor="middle" fill="#E8570A"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="600">Current Streak</text>
+    <!-- Date range -->
+    <text y="74" text-anchor="middle" fill="#8B949E"
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="11">Apr 3 - Apr 28, 2026</text>
   </g>
 
-  <!-- Longest Streak -->
-  <g transform="translate(412.5,97)">
-    <text y="-45" text-anchor="middle" fill="#8B949E"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="11">Apr 3, 2026 – Apr 28, 2026</text>
-    <text y="8" text-anchor="middle" fill="#FFFFFF"
+  <!-- RIGHT: Longest Streak -->
+  <g transform="translate(412.5,87)">
+    <text y="-4" text-anchor="middle" fill="#FFFFFF"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="32" font-weight="700">26</text>
-    <text y="32" text-anchor="middle" fill="#C9D1D9"
+    <text y="22" text-anchor="middle" fill="#C9D1D9"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="14">Longest Streak</text>
+    <text y="60" text-anchor="middle" fill="#8B949E"
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="11">Apr 3 - Apr 28, 2026</text>
   </g>
 </svg>

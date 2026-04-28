@@ -112,18 +112,41 @@ def fmt_date(d):
     return d.strftime("%b %-d, %Y") if sys.platform != "win32" else d.strftime("%b %#d, %Y")
 
 
+def fmt_range(start, end):
+    """Short date range: 'Apr 3 - Apr 28, 2026' when same year."""
+    if start is None or end is None:
+        return "-"
+    if sys.platform != "win32":
+        s = start.strftime("%b %-d") if start.year == end.year else start.strftime("%b %-d, %Y")
+        e = end.strftime("%b %-d, %Y")
+    else:
+        s = start.strftime("%b %#d") if start.year == end.year else start.strftime("%b %#d, %Y")
+        e = end.strftime("%b %#d, %Y")
+    return f"{s} - {e}"
+
+
 def generate_svg(total, cur_streak, cur_start, cur_end, lng_streak, lng_start, lng_end):
-    bg = "#0D1117"
-    ring = "#E8570A"
-    fire = "#E8570A"
-    num_color = "#FFFFFF"
-    label_color = "#C9D1D9"
-    date_color = "#8B949E"
+    bg      = "#0D1117"
+    ring    = "#E8570A"
+    fire    = "#E8570A"
+    num_col = "#FFFFFF"
+    lbl_col = "#C9D1D9"
+    dt_col  = "#8B949E"
     divider = "#30363D"
 
-    total_range = f"Jan 1, {date.today().year} – {fmt_date(date.today())}"
-    cur_range = f"{fmt_date(cur_start)} – {fmt_date(cur_end)}" if cur_streak > 0 else "No active streak"
-    lng_range = f"{fmt_date(lng_start)} – {fmt_date(lng_end)}" if lng_streak > 0 else "–"
+    today = date.today()
+    if sys.platform != "win32":
+        total_range = f"Jan 1, {today.year} - {today.strftime('%b %-d, %Y')}"
+    else:
+        total_range = f"Jan 1, {today.year} - {today.strftime('%b %#d, %Y')}"
+
+    cur_range = fmt_range(cur_start, cur_end) if cur_streak > 0 else "No active streak"
+    lng_range = fmt_range(lng_start, lng_end) if lng_streak > 0 else "-"
+
+    # Flame SVG path: teardrop pointing up, ~28px tall, centered at (0,0).
+    # Outer body + inner highlight to give depth.
+    flame_outer = "M0-15C-6-10-10-3-9 4-8 10-4 15 0 15 4 15 8 10 9 4 10-3 6-10 0-15Z"
+    flame_inner = "M0-6C-3-2-4 3-3 7-2 9 0 11 0 11 0 11 2 9 3 7 4 3 3-2 0-6Z"
 
     return f"""<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
   style="isolation:isolate" viewBox="0 0 495 195" width="495px" height="195px">
@@ -133,38 +156,44 @@ def generate_svg(total, cur_streak, cur_start, cur_end, lng_streak, lng_start, l
   <line x1="165" y1="28" x2="165" y2="167" stroke="{divider}" stroke-width="1"/>
   <line x1="330" y1="28" x2="330" y2="167" stroke="{divider}" stroke-width="1"/>
 
-  <!-- Total Contributions -->
-  <g transform="translate(82.5,97)">
-    <text y="-45" text-anchor="middle" fill="{date_color}"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="11">{total_range}</text>
-    <text y="8" text-anchor="middle" fill="{num_color}"
+  <!-- LEFT: Total Contributions -->
+  <g transform="translate(82.5,87)">
+    <text y="-4" text-anchor="middle" fill="{num_col}"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="32" font-weight="700">{total}</text>
-    <text y="32" text-anchor="middle" fill="{label_color}"
+    <text y="22" text-anchor="middle" fill="{lbl_col}"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="14">Total Contributions</text>
+    <text y="60" text-anchor="middle" fill="{dt_col}"
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="11">{total_range}</text>
   </g>
 
-  <!-- Current Streak -->
-  <g transform="translate(247.5,97)">
-    <circle cx="0" cy="0" r="40" fill="none" stroke="{ring}" stroke-width="5"/>
-    <!-- flame emoji stand-in -->
-    <text y="-52" text-anchor="middle" fill="{date_color}"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="10">{cur_range}</text>
-    <text y="10" text-anchor="middle" fill="{num_color}"
+  <!-- CENTER: Current Streak -->
+  <g transform="translate(247.5,86)">
+    <!-- Flame icon sitting on top of ring (ring top is at y=-38) -->
+    <g transform="translate(0,-54)">
+      <path fill="{fire}" d="{flame_outer}"/>
+      <path fill="#ffa040" opacity="0.85" d="{flame_inner}"/>
+    </g>
+    <!-- Ring -->
+    <circle cx="0" cy="0" r="38" fill="none" stroke="{ring}" stroke-width="5"/>
+    <!-- Number inside ring -->
+    <text y="11" text-anchor="middle" fill="{num_col}"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="28" font-weight="700">{cur_streak}</text>
-    <text y="28" text-anchor="middle" fill="{date_color}"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="11">days</text>
-    <text y="62" text-anchor="middle" fill="{fire}"
+    <!-- Label below ring -->
+    <text y="58" text-anchor="middle" fill="{fire}"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="600">Current Streak</text>
+    <!-- Date range -->
+    <text y="74" text-anchor="middle" fill="{dt_col}"
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="11">{cur_range}</text>
   </g>
 
-  <!-- Longest Streak -->
-  <g transform="translate(412.5,97)">
-    <text y="-45" text-anchor="middle" fill="{date_color}"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="11">{lng_range}</text>
-    <text y="8" text-anchor="middle" fill="{num_color}"
+  <!-- RIGHT: Longest Streak -->
+  <g transform="translate(412.5,87)">
+    <text y="-4" text-anchor="middle" fill="{num_col}"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="32" font-weight="700">{lng_streak}</text>
-    <text y="32" text-anchor="middle" fill="{label_color}"
+    <text y="22" text-anchor="middle" fill="{lbl_col}"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="14">Longest Streak</text>
+    <text y="60" text-anchor="middle" fill="{dt_col}"
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="11">{lng_range}</text>
   </g>
 </svg>"""
 
