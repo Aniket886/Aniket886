@@ -132,7 +132,7 @@
 <h2 align="center">Live Metrics</h2>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Aniket886&hide_border=true&background=0D1117&ring=E8570A&fire=E8570A&currStreakLabel=E8570A&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+  <img width="70%" src="./assets/github-streak.svg" alt="GitHub streak" />
 </div>
 
 <div align="center">

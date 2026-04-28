@@ -1,0 +1,39 @@
+name: Update Streak Stats
+
+on:
+  schedule:
+    - cron: "30 1 * * *"   # daily at 01:30 UTC, after any midnight commits
+  workflow_dispatch:         # allow manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate streak SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/generate_streak.py
+
+      - name: Commit updated streak SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-streak.svg
+          if git diff --cached --quiet; then
+            echo "No streak changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: update streak stats"
+          git push origin HEAD:main
