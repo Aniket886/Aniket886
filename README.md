@@ -132,7 +132,13 @@
 <h2 align="center">Badge's</h2>
 
 <div align="center">
-  <img width="70%" src="./badges/earthBadge.png" alt="Earth Badge" />
+  <table>
+    <tr>
+      <td align="center" width="160">
+        <img width="140" src="./badges/earthBadge.png" alt="Earth Badge" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h2 align="center">Live Metrics</h2>
