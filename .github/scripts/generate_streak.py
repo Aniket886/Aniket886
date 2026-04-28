@@ -85,10 +85,10 @@ def calc_current_streak(days, today):
     return streak, streak_start, streak_end
 
 
-def calc_longest_streak(days):
+def calc_longest_streak(days, today):
     if not days:
         return 0, None, None
-    sorted_dates = sorted(days.keys())
+    sorted_dates = sorted(d for d in days.keys() if d <= today)
     longest = current = 0
     longest_start = longest_end = current_start = None
     for d in sorted_dates:
@@ -203,7 +203,7 @@ def main():
     today = date.today()
 
     cur_streak, cur_start, cur_end = calc_current_streak(days, today)
-    lng_streak, lng_start, lng_end = calc_longest_streak(days)
+    lng_streak, lng_start, lng_end = calc_longest_streak(days, today)
 
     print(f"Total: {total}, Current: {cur_streak}, Longest: {lng_streak}", file=sys.stderr)
 
