@@ -9,7 +9,7 @@
   <!-- LEFT: Total Contributions -->
   <g transform="translate(82.5,80)">
     <text y="0" text-anchor="middle" fill="#FFFFFF"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="29" font-weight="700">6407</text>
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="29" font-weight="700">6408</text>
     <text y="36" text-anchor="middle" fill="#FFFFFF"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="14">Total Contributions</text>
     <text y="67" text-anchor="middle" fill="#A8A8A8"
@@ -34,10 +34,10 @@
   <!-- RIGHT: Longest Streak -->
   <g transform="translate(412.5,80)">
     <text y="0" text-anchor="middle" fill="#FFFFFF"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="29" font-weight="700">27</text>
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="29" font-weight="700">26</text>
     <text y="36" text-anchor="middle" fill="#FFFFFF"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="14">Longest Streak</text>
     <text y="67" text-anchor="middle" fill="#A8A8A8"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="12">Apr 3 - Apr 29, 2026</text>
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="12">Apr 3 - Apr 28, 2026</text>
   </g>
 </svg>
