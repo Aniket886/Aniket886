@@ -129,6 +129,12 @@
   <img src="https://img.shields.io/badge/Perplexity%20Pro-20808D?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity Pro" />
 </div>
 
+<h2 align="center">Badge's</h2>
+
+<div align="center">
+  <img width="70%" src="./badges/earthBadge.png" alt="Earth Badge" />
+</div>
+
 <h2 align="center">Live Metrics</h2>
 
 <div align="center">
