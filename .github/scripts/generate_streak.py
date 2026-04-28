@@ -126,13 +126,14 @@ def fmt_range(start, end):
 
 
 def generate_svg(total, cur_streak, cur_start, cur_end, lng_streak, lng_start, lng_end):
-    bg      = "#0D1117"
-    ring    = "#E8570A"
-    fire    = "#E8570A"
+    bg      = "#151515"
+    border  = "#555555"
+    ring    = "#FF9500"
+    fire    = "#FF9500"
     num_col = "#FFFFFF"
-    lbl_col = "#C9D1D9"
-    dt_col  = "#8B949E"
-    divider = "#30363D"
+    lbl_col = "#FFFFFF"
+    dt_col  = "#A8A8A8"
+    divider = "#8A8A8A"
 
     today = date.today()
     if sys.platform != "win32":
@@ -143,57 +144,51 @@ def generate_svg(total, cur_streak, cur_start, cur_end, lng_streak, lng_start, l
     cur_range = fmt_range(cur_start, cur_end) if cur_streak > 0 else "No active streak"
     lng_range = fmt_range(lng_start, lng_end) if lng_streak > 0 else "-"
 
-    # Flame SVG path: teardrop pointing up, ~28px tall, centered at (0,0).
-    # Outer body + inner highlight to give depth.
-    flame_outer = "M0-15C-6-10-10-3-9 4-8 10-4 15 0 15 4 15 8 10 9 4 10-3 6-10 0-15Z"
-    flame_inner = "M0-6C-3-2-4 3-3 7-2 9 0 11 0 11 0 11 2 9 3 7 4 3 3-2 0-6Z"
+    # Flame shape sits into the ring, matching the reference badge style.
+    flame_outer = "M0-22C8-14 10-7 5 0C10-2 13-8 9-16C20-6 16 9 4 12C-8 15-15 5-10-6C-8-12-4-17 0-22Z"
+    flame_cutout = "M1-9C5-4 5 2 1 5C-4 1-4-5 1-9Z"
 
     return f"""<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
   style="isolation:isolate" viewBox="0 0 495 195" width="495px" height="195px">
-  <rect width="495" height="195" fill="{bg}" rx="4.5"/>
+  <rect x="0.5" y="0.5" width="494" height="194" fill="{bg}" stroke="{border}" rx="3.5"/>
 
   <!-- Section dividers -->
-  <line x1="165" y1="28" x2="165" y2="167" stroke="{divider}" stroke-width="1"/>
-  <line x1="330" y1="28" x2="330" y2="167" stroke="{divider}" stroke-width="1"/>
+  <line x1="165" y1="27" x2="165" y2="170" stroke="{divider}" stroke-width="1.5"/>
+  <line x1="330" y1="27" x2="330" y2="170" stroke="{divider}" stroke-width="1.5"/>
 
   <!-- LEFT: Total Contributions -->
-  <g transform="translate(82.5,87)">
-    <text y="-4" text-anchor="middle" fill="{num_col}"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="32" font-weight="700">{total}</text>
-    <text y="22" text-anchor="middle" fill="{lbl_col}"
+  <g transform="translate(82.5,80)">
+    <text y="0" text-anchor="middle" fill="{num_col}"
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="29" font-weight="700">{total}</text>
+    <text y="36" text-anchor="middle" fill="{lbl_col}"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="14">Total Contributions</text>
-    <text y="60" text-anchor="middle" fill="{dt_col}"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="11">{total_range}</text>
+    <text y="67" text-anchor="middle" fill="{dt_col}"
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="12">{total_range}</text>
   </g>
 
   <!-- CENTER: Current Streak -->
-  <g transform="translate(247.5,86)">
-    <!-- Flame icon sitting on top of ring (ring top is at y=-38) -->
-    <g transform="translate(0,-54)">
+  <g transform="translate(247.5,75)">
+    <g transform="translate(0,-39) scale(0.78)">
       <path fill="{fire}" d="{flame_outer}"/>
-      <path fill="#ffa040" opacity="0.85" d="{flame_inner}"/>
+      <path fill="{bg}" d="{flame_cutout}"/>
     </g>
-    <!-- Ring -->
-    <circle cx="0" cy="0" r="38" fill="none" stroke="{ring}" stroke-width="5"/>
-    <!-- Number inside ring -->
-    <text y="11" text-anchor="middle" fill="{num_col}"
+    <circle cx="0" cy="0" r="37" fill="none" stroke="{ring}" stroke-width="5"/>
+    <text y="10" text-anchor="middle" fill="{num_col}"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="28" font-weight="700">{cur_streak}</text>
-    <!-- Label below ring -->
-    <text y="58" text-anchor="middle" fill="{fire}"
+    <text y="62" text-anchor="middle" fill="{fire}"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="600">Current Streak</text>
-    <!-- Date range -->
-    <text y="74" text-anchor="middle" fill="{dt_col}"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="11">{cur_range}</text>
+    <text y="88" text-anchor="middle" fill="{dt_col}"
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="12">{cur_range}</text>
   </g>
 
   <!-- RIGHT: Longest Streak -->
-  <g transform="translate(412.5,87)">
-    <text y="-4" text-anchor="middle" fill="{num_col}"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="32" font-weight="700">{lng_streak}</text>
-    <text y="22" text-anchor="middle" fill="{lbl_col}"
+  <g transform="translate(412.5,80)">
+    <text y="0" text-anchor="middle" fill="{num_col}"
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="29" font-weight="700">{lng_streak}</text>
+    <text y="36" text-anchor="middle" fill="{lbl_col}"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="14">Longest Streak</text>
-    <text y="60" text-anchor="middle" fill="{dt_col}"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="11">{lng_range}</text>
+    <text y="67" text-anchor="middle" fill="{dt_col}"
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="12">{lng_range}</text>
   </g>
 </svg>"""
 
