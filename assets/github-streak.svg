@@ -13,7 +13,7 @@
     <text y="36" text-anchor="middle" fill="#FFFFFF"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="14">Total Contributions</text>
     <text y="67" text-anchor="middle" fill="#A8A8A8"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="12">Jan 1, 2026 - Apr 29, 2026</text>
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="12">Jan 1, 2026 - Apr 30, 2026</text>
   </g>
 
   <!-- CENTER: Current Streak -->
@@ -24,20 +24,20 @@
     </g>
     <circle cx="0" cy="0" r="37" fill="none" stroke="#FF9500" stroke-width="5"/>
     <text y="10" text-anchor="middle" fill="#FFFFFF"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="28" font-weight="700">27</text>
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="28" font-weight="700">28</text>
     <text y="62" text-anchor="middle" fill="#FF9500"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="600">Current Streak</text>
     <text y="88" text-anchor="middle" fill="#A8A8A8"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="12">Apr 3 - Apr 29, 2026</text>
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="12">Apr 3 - Apr 30, 2026</text>
   </g>
 
   <!-- RIGHT: Longest Streak -->
   <g transform="translate(412.5,80)">
     <text y="0" text-anchor="middle" fill="#FFFFFF"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="29" font-weight="700">27</text>
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="29" font-weight="700">28</text>
     <text y="36" text-anchor="middle" fill="#FFFFFF"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="14">Longest Streak</text>
     <text y="67" text-anchor="middle" fill="#A8A8A8"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="12">Apr 3 - Apr 29, 2026</text>
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="12">Apr 3 - Apr 30, 2026</text>
   </g>
 </svg>
