@@ -167,6 +167,11 @@
         <img width="150" src="./badges/isc2-candidate.png" alt="ISC2 Candidate" />
       </td>
     </tr>
+    <tr>
+      <td align="center" width="170">
+        <img width="150" src="./badges/ai-and-innovation-how-mongodb-enables-a-resilient-a.png" alt="AI and Innovation: MongoDB Resilient Architecture" />
+      </td>
+    </tr>
   </table>
 </div>
 
