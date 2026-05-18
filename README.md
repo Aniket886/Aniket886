@@ -171,6 +171,9 @@
       <td align="center" width="170">
         <img width="150" src="./badges/ai-and-innovation-how-mongodb-enables-a-resilient-a.png" alt="AI and Innovation: MongoDB Resilient Architecture" />
       </td>
+      <td align="center" width="170">
+        <img width="150" src="./badges/capability-score-D4rkMatrix (1).png" alt="Capability Score D4rkMatrix" />
+      </td>
     </tr>
   </table>
 </div>
