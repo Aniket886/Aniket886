@@ -163,6 +163,9 @@
       <td align="center" width="170">
         <img width="150" src="./badges/500.png" alt="500 Badge" />
       </td>
+      <td align="center" width="170">
+        <img width="150" src="./badges/isc2-candidate.png" alt="ISC2 Candidate" />
+      </td>
     </tr>
   </table>
 </div>
