@@ -120,8 +120,8 @@ aniket@security-ops:~# cat profile.json
         <a href="https://www.cyberdravida.in" target="_blank">
           <img src="https://img.shields.io/badge/Founder-CYBER%20DRAVIDA-00E5FF?style=flat-square&logo=shield&logoColor=black" alt="Cyber Dravida Founder" />
         </a>
-        <a href="https://linktr.ee/cyberdravida" target="_blank">
-          <img src="https://img.shields.io/badge/Community%20Hub-Linktree-43E660?style=flat-square&logo=linktree&logoColor=black" alt="Cyber Dravida Linktree" />
+        <a href="https://www.cyberdravida.in" target="_blank">
+          <img src="https://img.shields.io/badge/Official%20Site-cyberdravida.in-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white" alt="cyberdravida.in" />
         </a>
         <a href="https://instagram.com/cyberdravida" target="_blank">
           <img src="https://img.shields.io/badge/Instagram-%40cyberdravida-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Cyber Dravida Instagram" />
@@ -129,13 +129,10 @@ aniket@security-ops:~# cat profile.json
         <a href="https://www.youtube.com/@CYBERDRAVIDA" target="_blank">
           <img src="https://img.shields.io/badge/YouTube-CYBER%20DRAVIDA-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Cyber Dravida YouTube" />
         </a>
-        <a href="https://api.whatsapp.com/send?phone=919380606431" target="_blank">
-          <img src="https://img.shields.io/badge/Community-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Community" />
-        </a>
       </p>
       <ul>
         <li><strong>Founder of <a href="https://www.cyberdravida.in">CYBER DRAVIDA</a>:</strong> Established and leading <em>CYBER DRAVIDA ("Where Curiosity Meets Cybersecurity")</em> — a Karnataka-based cybersecurity organization committed to empowering students and developers through hands-on cybersecurity training, threat awareness, OSINT research, and defensive methodologies.</li>
-        <li><strong>Community Programs & 1:1 Mentorship:</strong> Delivering live community masterclasses, 1:1 hands-on ethical hacking coaching, OSINT research sessions, and free awareness programs for emerging defenders. Join classes and access materials via <a href="https://linktr.ee/cyberdravida"><strong>linktr.ee/cyberdravida</strong></a>.</li>
+        <li><strong>Community Programs & 1:1 Mentorship:</strong> Delivering live community masterclasses, 1:1 hands-on ethical hacking coaching, OSINT research sessions, and free awareness programs for emerging defenders. Join classes and access resources via <a href="https://www.cyberdravida.in"><strong>cyberdravida.in</strong></a>.</li>
         <li><strong>Startup Cohorts & Academic Workshops:</strong> Conducted cybersecurity awareness and foundational hygiene workshops for startup cohorts and collegiate developers, covering real-world threat vectors and defensive best practices.</li>
         <li><strong>Content Creation & Teardowns:</strong> Publishing technical walk-throughs, threat breakdowns, and security tutorials across YouTube (<a href="https://www.youtube.com/@CYBERDRAVIDA"><code>@CYBERDRAVIDA</code></a>, <a href="https://www.youtube.com/@anonymous_3301x"><code>@anonymous_3301x</code></a>) and Medium.</li>
       </ul>
@@ -220,7 +217,7 @@ aniket@security-ops:~# cat profile.json
       <p>
         <img src="https://img.shields.io/badge/Role-Founder%20%26%20Lead-00E5FF?style=flat-square" alt="Founder & Lead" />
         <img src="https://img.shields.io/badge/Focus-Training%20%26%20OSINT-7EE787?style=flat-square" alt="Training & OSINT" />
-        <a href="https://linktr.ee/cyberdravida"><img src="https://img.shields.io/badge/Hub-Linktree-43E660?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" /></a>
+        <a href="https://www.cyberdravida.in"><img src="https://img.shields.io/badge/Web-cyberdravida.in-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white" alt="cyberdravida.in" /></a>
       </p>
       <p>
         Karnataka-based cybersecurity organization committed to training, awareness, free masterclasses, 1:1 ethical hacking coaching, and OSINT research.
@@ -411,10 +408,7 @@ aniket@security-ops:~# cat profile.json
   </p>
 
   <a href="https://www.cyberdravida.in" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-CYBER%20DRAVIDA-00E5FF?style=for-the-badge&logo=shield&logoColor=black" alt="Visit Cyber Dravida" />
-  </a>
-  <a href="https://linktr.ee/cyberdravida" target="_blank">
-    <img src="https://img.shields.io/badge/Community%20Hub-Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=black" alt="Cyber Dravida Linktree" />
+    <img src="https://img.shields.io/badge/Visit-cyberdravida.in-00E5FF?style=for-the-badge&logo=shield&logoColor=black" alt="Visit cyberdravida.in" />
   </a>
   <a href="mailto:aniket.gmu@gmail.com">
     <img src="https://img.shields.io/badge/Get%20in%20Touch-111827?style=for-the-badge&logo=minutemailer&logoColor=38BDF8" alt="Get In Touch" />
