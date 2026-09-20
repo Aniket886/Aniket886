@@ -213,87 +213,74 @@ aniket@security-ops:~# cat profile.json
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://www.cyberdravida.in">CYBER DRAVIDA — Cyber Security Organization</a></h4>
+      <h4>🤖 <a href="https://github.com/Aniket886/hand-gestures">ArcMotion — Hand Gestures & Spatial UI</a></h4>
       <p>
-        <img src="https://img.shields.io/badge/Role-Founder%20%26%20Lead-00E5FF?style=flat-square" alt="Founder & Lead" />
-        <img src="https://img.shields.io/badge/Trained-1500%2B%20Students-7EE787?style=flat-square&logo=target&logoColor=black" alt="1500+ Students" />
-        <a href="https://www.cyberdravida.in"><img src="https://img.shields.io/badge/Web-cyberdravida.in-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white" alt="cyberdravida.in" /></a>
+        <img src="https://img.shields.io/badge/AI%20%26%20Vision-38BDF8?style=flat-square" alt="AI & Vision" />
+        <img src="https://img.shields.io/badge/Python%20%E2%80%A2%20OpenCV-7EE787?style=flat-square" alt="Python OpenCV" />
       </p>
-      <p>
-        Karnataka-based cybersecurity organization committed to defensive training, threat awareness, OSINT research, and 1:1 mentorship. Mentored and trained 1,500+ students & emerging builders.
-      </p>
-      <p>
-        <code>Cyber Education</code> • <code>Threat Awareness</code> • <code>OSINT Research</code> • <code>Mentorship</code>
-      </p>
+      <ul>
+        <li>Real-time hand-landmark recognition and spatial gesture tracking engine.</li>
+        <li>Voice-activated navigation and low-latency interaction controls.</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://aniket886.github.io/datawipingtool/#download">Data Wiping Tool</a></h4>
+      <h4>🛡️ <a href="https://aniket886.github.io/datawipingtool/#download">Secure Data Wiping Tool</a></h4>
       <p>
-        <img src="https://img.shields.io/badge/Domain-Cybersecurity%20%26%20Forensics-F43F5E?style=flat-square" alt="Cybersecurity Domain" />
-        <img src="https://img.shields.io/badge/Deployment-Live-22C55E?style=flat-square" alt="Live Deployment" />
+        <img src="https://img.shields.io/badge/Anti--Forensics-F43F5E?style=flat-square" alt="Anti-Forensics" />
+        <img src="https://img.shields.io/badge/Status-Live%20Download-22C55E?style=flat-square" alt="Live Download" />
       </p>
-      <p>
-        Anti-forensics sanitization and secure data shredder. Overwrites file sectors with multi-pass cryptographic pseudorandom patterns to prevent digital forensic reconstruction.
-      </p>
-      <p>
-        <code>Security Engineering</code> • <code>Sanitization</code> • <code>Anti-Forensics</code> • <code>Privacy</code>
-      </p>
+      <ul>
+        <li>Anti-forensics disk sanitization preventing digital forensic reconstruction.</li>
+        <li>Cryptographic multi-pass overwrite patterns meeting data shredding standards.</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/Aniket886/hand-gestures">ArcMotion — Hand Gestures & Spatial UI</a></h4>
-      <p>
-        <img src="https://img.shields.io/badge/Domain-AI%20%26%20Computer%20Vision-38BDF8?style=flat-square" alt="AI Domain" />
-        <img src="https://img.shields.io/badge/Status-Active-7EE787?style=flat-square" alt="Status Active" />
-      </p>
-      <p>
-        Next-generation spatial interaction and gesture tracking engine. Combines real-time hand-landmark recognition, gesture mapping, voice commands, and interactive UI responsiveness.
-      </p>
-      <p>
-        <code>Python</code> • <code>OpenCV</code> • <code>MediaPipe</code> • <code>Computer Vision</code> • <code>HCI</code>
-      </p>
-    </td>
     <td width="50%" valign="top">
       <h4>🌐 <a href="https://github.com/Aniket886/tech-carnival-site">Tech Carnival Portal</a></h4>
       <p>
-        <img src="https://img.shields.io/badge/Domain-Full--Stack%20Web-6366F1?style=flat-square" alt="Web Dev Domain" />
-        <img src="https://img.shields.io/badge/UI-Interactive-A855F7?style=flat-square" alt="Interactive UI" />
+        <img src="https://img.shields.io/badge/Full--Stack%20Web-6366F1?style=flat-square" alt="Web Dev" />
+        <img src="https://img.shields.io/badge/React%20%E2%80%A2%20Tailwind-06B6D4?style=flat-square" alt="React Tailwind" />
       </p>
+      <ul>
+        <li>Interactive hackathon and event portal featuring live agenda timelines.</li>
+        <li>High-performance responsive UI optimized with Vite & modern CSS.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌍 <a href="https://github.com/Aniket886/terralens">Terralens</a></h4>
       <p>
-        High-energy, responsive web portal crafted for large-scale technical carnivals and hackathons with interactive schedules, participant registration, and dynamic components.
+        <img src="https://img.shields.io/badge/Geospatial%20UI-14B8A6?style=flat-square" alt="Geospatial UI" />
+        <img src="https://img.shields.io/badge/Focus-Data%20Viz-F59E0B?style=flat-square" alt="Data Viz" />
       </p>
-      <p>
-        <code>React</code> • <code>Tailwind CSS</code> • <code>Vite</code> • <code>Responsive Design</code>
-      </p>
+      <ul>
+        <li>Geospatial environmental intelligence and map-based analytics platform.</li>
+        <li>Intuitive visual dashboard delivering real-time geographical data insights.</li>
+      </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌍 <a href="https://github.com/Aniket886/terralens">Terralens</a></h4>
+      <h4>🛡️ <a href="https://www.cyberdravida.in">CYBER DRAVIDA Platform</a></h4>
       <p>
-        <img src="https://img.shields.io/badge/Domain-Geospatial%20%26%20Web-14B8A6?style=flat-square" alt="Geospatial Domain" />
-        <img src="https://img.shields.io/badge/Focus-Visualization-F59E0B?style=flat-square" alt="Visualization Focus" />
+        <img src="https://img.shields.io/badge/Role-Founder%20%26%20Lead-00E5FF?style=flat-square" alt="Founder & Lead" />
+        <img src="https://img.shields.io/badge/Trained-1500%2B%20Students-7EE787?style=flat-square&logo=target&logoColor=black" alt="1500+ Students" />
       </p>
-      <p>
-        Geospatial intelligence and environmental data visualization web platform designed for intuitive map navigation, geographical metrics, and analytical insights.
-      </p>
-      <p>
-        <code>Web App</code> • <code>Geospatial UI</code> • <code>Data Visualization</code>
-      </p>
+      <ul>
+        <li>Official cybersecurity education, threat awareness, and OSINT research portal.</li>
+        <li>Hub for free community masterclasses, student cohorts, and 1:1 mentorship.</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
       <h4>⏱️ <a href="https://github.com/Aniket886/Date-Time-Offset-Application">Date-Time Offset Utility</a></h4>
       <p>
-        <img src="https://img.shields.io/badge/Domain-Utility%20Software-F59E0B?style=flat-square" alt="Utility Domain" />
+        <img src="https://img.shields.io/badge/Utility%20App-A855F7?style=flat-square" alt="Utility App" />
         <img src="https://img.shields.io/badge/Status-Shipped-22C55E?style=flat-square" alt="Status Shipped" />
       </p>
-      <p>
-        High-precision temporal computing tool engineered for offset calculations, cross-timezone scheduling, and accurate timestamp transformations.
-      </p>
-      <p>
-        <code>Utility App</code> • <code>Automation</code> • <code>Developer Tools</code>
-      </p>
+      <ul>
+        <li>Precision temporal offset calculations and cross-timezone conversions.</li>
+        <li>Engineered for rapid, error-free timestamp transformation workflows.</li>
+      </ul>
     </td>
   </tr>
 </table>
