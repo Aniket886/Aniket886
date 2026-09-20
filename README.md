@@ -79,37 +79,37 @@ aniket@security-ops:~# cat profile.json
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ 1. Cybersecurity & Defensive Engineering</h4>
+      <h4>🛡️ 1. Cybersecurity & Defense</h4>
       <ul>
-        <li><strong>Focus:</strong> Threat modeling, vulnerability scanning, security hardening, network defense, and ethical hacking.</li>
-        <li><strong>Certifications:</strong> (ISC)² Candidate, Google Cybersecurity Professional Certificate.</li>
-        <li><strong>Practice:</strong> High-ranking rooms & active lab solving on TryHackMe (Ranked D4rkMatrix).</li>
+        <li><strong>Core Focus:</strong> Vulnerability assessment, hardening, and network security.</li>
+        <li><strong>Credentials:</strong> (ISC)² Candidate & Google Cybersecurity Certified.</li>
+        <li><strong>Hands-On:</strong> Active CTF & security lab solver on TryHackMe (<code>D4rkMatrix</code>).</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 2. Full-Stack Web Development</h4>
+      <h4>🌐 2. Full-Stack Web Dev</h4>
       <ul>
-        <li><strong>Modern Stack:</strong> React, Vite, Tailwind CSS, TypeScript, JavaScript, Node.js, Express.</li>
-        <li><strong>Architecture:</strong> RESTful APIs, Webhooks, secure authentication flows, high-performance UI/UX.</li>
-        <li><strong>Philosophy:</strong> Building secure-by-design applications that resist injection, CSRF, and broken access controls.</li>
+        <li><strong>Core Stack:</strong> React, Vite, Tailwind CSS, TypeScript, Node.js & REST APIs.</li>
+        <li><strong>Engineering:</strong> Secure-by-design architectures, auth flows, and webhooks.</li>
+        <li><strong>Performance:</strong> High-speed responsive web applications and clean UI/UX.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 3. Applied AI, ML & Spatial Systems</h4>
+      <h4>🤖 3. AI / ML & Spatial Systems</h4>
       <ul>
-        <li><strong>Computer Vision:</strong> Real-time gesture tracking, spatial interaction, and multimodal voice UI (<em>ArcMotion</em>).</li>
-        <li><strong>LLMs & Automation:</strong> Local LLM deployment via Ollama, agentic workflows, Claude Code, OpenAI tools.</li>
-        <li><strong>Cloud AI:</strong> Resilient AI architecture patterns recognized by MongoDB AI & Innovation.</li>
+        <li><strong>Computer Vision:</strong> Real-time gesture tracking & spatial interaction (<em>ArcMotion</em>).</li>
+        <li><strong>Local AI & Agents:</strong> Local LLMs via Ollama, agentic workflows, and code AI tools.</li>
+        <li><strong>Resilience:</strong> Scalable AI patterns recognized by MongoDB AI & Innovation.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🔍 4. Digital Forensics & OSINT Investigation</h4>
+      <h4>🔍 4. Forensics & OSINT</h4>
       <ul>
-        <li><strong>OSINT:</strong> Open-source intelligence gathering, asset reconnaissance, and cyber footprint discovery.</li>
-        <li><strong>Forensics & Sanitization:</strong> File recovery analysis, anti-forensics sanitization (<em>Data Wiping Tool</em>), cryptographic hashes.</li>
-        <li><strong>Badges:</strong> OhSINT Room Badge, Hash Cracking & Forensics achievements.</li>
+        <li><strong>OSINT Recon:</strong> Asset reconnaissance, digital footprints, and threat intelligence.</li>
+        <li><strong>DFIR Tooling:</strong> Anti-forensic data sanitization (<em>Data Wiping Tool</em>) & hash analysis.</li>
+        <li><strong>Achievements:</strong> Proven badges in OhSINT, Hash analysis, and forensic rooms.</li>
       </ul>
     </td>
   </tr>
