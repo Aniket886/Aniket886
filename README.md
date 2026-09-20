@@ -365,11 +365,6 @@ aniket@security-ops:~# cat profile.json
     <img src="./assets/github-streak.svg" width="80%" alt="Live GitHub Contribution Streak" />
   </p>
 
-  <!-- Contribution Activity Graph -->
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniket886&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=7ee787&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Contribution Activity Graph" />
-  </p>
-
   <!-- Contribution Snake Animation -->
   <p>
     <picture>
