@@ -123,6 +123,7 @@ aniket@security-ops:~# cat profile.json
         <a href="https://www.cyberdravida.in" target="_blank">
           <img src="https://img.shields.io/badge/Official%20Site-cyberdravida.in-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white" alt="cyberdravida.in" />
         </a>
+        <img src="https://img.shields.io/badge/Trained-1500%2B%20Students-7EE787?style=flat-square&logo=target&logoColor=black" alt="1500+ Students Trained" />
         <a href="https://instagram.com/cyberdravida" target="_blank">
           <img src="https://img.shields.io/badge/Instagram-%40cyberdravida-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Cyber Dravida Instagram" />
         </a>
@@ -131,10 +132,9 @@ aniket@security-ops:~# cat profile.json
         </a>
       </p>
       <ul>
-        <li><strong>Founder of <a href="https://www.cyberdravida.in">CYBER DRAVIDA</a>:</strong> Established and leading <em>CYBER DRAVIDA ("Where Curiosity Meets Cybersecurity")</em> — a Karnataka-based cybersecurity organization committed to empowering students and developers through hands-on cybersecurity training, threat awareness, OSINT research, and defensive methodologies.</li>
-        <li><strong>Community Programs & 1:1 Mentorship:</strong> Delivering live community masterclasses, 1:1 hands-on ethical hacking coaching, OSINT research sessions, and free awareness programs for emerging defenders. Join classes and access resources via <a href="https://www.cyberdravida.in"><strong>cyberdravida.in</strong></a>.</li>
-        <li><strong>Startup Cohorts & Academic Workshops:</strong> Conducted cybersecurity awareness and foundational hygiene workshops for startup cohorts and collegiate developers, covering real-world threat vectors and defensive best practices.</li>
-        <li><strong>Content Creation & Teardowns:</strong> Publishing technical walk-throughs, threat breakdowns, and security tutorials across YouTube (<a href="https://www.youtube.com/@CYBERDRAVIDA"><code>@CYBERDRAVIDA</code></a>, <a href="https://www.youtube.com/@anonymous_3301x"><code>@anonymous_3301x</code></a>) and Medium.</li>
+        <li><strong>Founder @ <a href="https://www.cyberdravida.in">CYBER DRAVIDA</a>:</strong> Spearheading defensive security education, OSINT research, and digital threat awareness.</li>
+        <li><strong>Community Impact:</strong> Mentored & trained <strong>1,500+ students</strong> and startup cohorts in cyber defense, ethical hacking, and threat mitigation.</li>
+        <li><strong>Hands-On Training:</strong> Delivering 1:1 mentorship, live community masterclasses, and technical security breakdowns on YouTube & Medium.</li>
       </ul>
     </td>
   </tr>
@@ -216,11 +216,11 @@ aniket@security-ops:~# cat profile.json
       <h4>🛡️ <a href="https://www.cyberdravida.in">CYBER DRAVIDA — Cyber Security Organization</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Role-Founder%20%26%20Lead-00E5FF?style=flat-square" alt="Founder & Lead" />
-        <img src="https://img.shields.io/badge/Focus-Training%20%26%20OSINT-7EE787?style=flat-square" alt="Training & OSINT" />
+        <img src="https://img.shields.io/badge/Trained-1500%2B%20Students-7EE787?style=flat-square&logo=target&logoColor=black" alt="1500+ Students" />
         <a href="https://www.cyberdravida.in"><img src="https://img.shields.io/badge/Web-cyberdravida.in-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white" alt="cyberdravida.in" /></a>
       </p>
       <p>
-        Karnataka-based cybersecurity organization committed to training, awareness, free masterclasses, 1:1 ethical hacking coaching, and OSINT research.
+        Karnataka-based cybersecurity organization committed to defensive training, threat awareness, OSINT research, and 1:1 mentorship. Mentored and trained 1,500+ students & emerging builders.
       </p>
       <p>
         <code>Cyber Education</code> • <code>Threat Awareness</code> • <code>OSINT Research</code> • <code>Mentorship</code>
