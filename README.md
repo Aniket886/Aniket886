@@ -22,11 +22,8 @@
 
   <!-- Social & Connection Bar -->
   <p align="center">
-    <a href="https://www.cyberdravida.in" target="_blank">
-      <img src="https://img.shields.io/badge/CYBER%20DRAVIDA-Official%20Site-00E5FF?style=for-the-badge&logo=shield&logoColor=black" alt="Cyber Dravida Website" />
-    </a>
-    <a href="https://linktr.ee/cyberdravida" target="_blank">
-      <img src="https://img.shields.io/badge/CYBER%20DRAVIDA-Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=black" alt="Cyber Dravida Linktree" />
+    <a href="https://linktr.ee/anikettegginamath" target="_blank">
+      <img src="https://img.shields.io/badge/Linktree-anikettegginamath-43E660?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" />
     </a>
     <a href="https://www.linkedin.com/in/aniket-tegginamath-420324251/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -58,8 +55,8 @@ aniket@security-ops:~# cat profile.json
 {
   "name": "Aniket Tegginamath",
   "callsign": "D4rkMatrix",
+  "linktree": "https://linktr.ee/anikettegginamath",
   "founder": "CYBER DRAVIDA (https://cyberdravida.in)",
-  "community_hub": "https://linktr.ee/cyberdravida",
   "location": "Bangalore, Karnataka, India 🇮🇳",
   "academics": "BCA (Bachelor of Computer Applications) @ GM University",
   "credentials": ["(ISC)² Candidate", "Google Cybersecurity Certified", "MongoDB AI & Innovation"],
