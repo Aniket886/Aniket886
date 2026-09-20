@@ -1,16 +1,16 @@
 <div align="center">
   <!-- Dynamic Hero Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1020,25:111827,50:1F6FEB,75:38BDF8,100:7EE787&text=Aniket%20Tegginamath&fontColor=F0F6FC&fontSize=44&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20Full-Stack%20Web%20%E2%80%A2%20AI/ML%20%E2%80%A2%20Digital%20Forensics%20%E2%80%A2%20Trainer&descFontSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Aniket Tegginamath Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1020,25:111827,50:1F6FEB,75:38BDF8,100:7EE787&text=Aniket%20Tegginamath&fontColor=F0F6FC&fontSize=44&fontAlignY=36&desc=Founder%20%40%20CYBER%20DRAVIDA%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20AI/ML%20%E2%80%A2%20Forensics&descFontSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Aniket Tegginamath Banner" />
 
   <br />
 
   <!-- Animated Typing Tagline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=620&height=40&lines=Cybersecurity+Student+%26+Defensive+Builder;Full-Stack+Web+Developer;Applied+AI+%26+Computer+Vision+Engineer;OSINT+%26+Digital+Forensics+Investigator;Cyber+Security+Trainer+%26+Speaker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=40&lines=Founder+%40+CYBER+DRAVIDA;Cybersecurity+Student+%26+Defensive+Builder;Full-Stack+Web+Developer;Applied+AI+%26+Computer+Vision+Engineer;OSINT+%26+Digital+Forensics+Investigator;Cyber+Security+Trainer+%26+Speaker" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Building resilient systems, investigating digital threats, shipping intelligent web apps, and training future defenders.</strong>
+    <strong>Founder of CYBER DRAVIDA • Building resilient systems, investigating digital threats, shipping intelligent web apps, and training future defenders.</strong>
   </p>
 
   <!-- Live Profile Counters -->
@@ -22,6 +22,12 @@
 
   <!-- Social & Connection Bar -->
   <p align="center">
+    <a href="https://www.cyberdravida.in" target="_blank">
+      <img src="https://img.shields.io/badge/CYBER%20DRAVIDA-Official%20Site-00E5FF?style=for-the-badge&logo=shield&logoColor=black" alt="Cyber Dravida Website" />
+    </a>
+    <a href="https://linktr.ee/cyberdravida" target="_blank">
+      <img src="https://img.shields.io/badge/CYBER%20DRAVIDA-Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=black" alt="Cyber Dravida Linktree" />
+    </a>
     <a href="https://www.linkedin.com/in/aniket-tegginamath-420324251/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -52,17 +58,19 @@ aniket@security-ops:~# cat profile.json
 {
   "name": "Aniket Tegginamath",
   "callsign": "D4rkMatrix",
+  "founder": "CYBER DRAVIDA (https://cyberdravida.in)",
+  "community_hub": "https://linktr.ee/cyberdravida",
   "location": "Bangalore, Karnataka, India 🇮🇳",
   "academics": "BCA (Bachelor of Computer Applications) @ GM University",
   "credentials": ["(ISC)² Candidate", "Google Cybersecurity Certified", "MongoDB AI & Innovation"],
   "disciplines": [
+    "Founder & Lead Trainer @ CYBER DRAVIDA",
     "Cybersecurity Student & Ethical Hacker",
     "Full-Stack Web Architect",
     "Applied AI/ML & Computer Vision Developer",
-    "Digital Forensics & OSINT Investigator",
-    "Cybersecurity Trainer & Tech Mentor"
+    "Digital Forensics & OSINT Investigator"
   ],
-  "mission": "Engineering secure-by-design software, automating forensic workflows, and raising digital threat resilience.",
+  "mission": "Empowering future defenders through CYBER DRAVIDA, engineering secure-by-design applications, and automating digital investigations.",
   "status": "🟢 Actively Building, Auditing & Mentoring"
 }
 ```
@@ -110,11 +118,29 @@ aniket@security-ops:~# cat profile.json
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h4>🎓 5. Cybersecurity Trainer & Community Educator</h4>
+      <h4>🎓 5. Cybersecurity Trainer & Community Educator — Founder, CYBER DRAVIDA</h4>
+      <p>
+        <a href="https://www.cyberdravida.in" target="_blank">
+          <img src="https://img.shields.io/badge/Founder-CYBER%20DRAVIDA-00E5FF?style=flat-square&logo=shield&logoColor=black" alt="Cyber Dravida Founder" />
+        </a>
+        <a href="https://linktr.ee/cyberdravida" target="_blank">
+          <img src="https://img.shields.io/badge/Community%20Hub-Linktree-43E660?style=flat-square&logo=linktree&logoColor=black" alt="Cyber Dravida Linktree" />
+        </a>
+        <a href="https://instagram.com/cyberdravida" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-%40cyberdravida-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Cyber Dravida Instagram" />
+        </a>
+        <a href="https://www.youtube.com/@CYBERDRAVIDA" target="_blank">
+          <img src="https://img.shields.io/badge/YouTube-CYBER%20DRAVIDA-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Cyber Dravida YouTube" />
+        </a>
+        <a href="https://api.whatsapp.com/send?phone=919380606431" target="_blank">
+          <img src="https://img.shields.io/badge/Community-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Community" />
+        </a>
+      </p>
       <ul>
-        <li><strong>Corporate & Startup Training:</strong> Delivered dedicated cybersecurity awareness and foundational hygiene workshops for startup cohorts and collegiate developers.</li>
-        <li><strong>Content Creation:</strong> Publishing deep-dive technical tutorials, security walk-throughs, and research across Medium and YouTube (<code>@anonymous_3301x</code>).</li>
-        <li><strong>Mentorship:</strong> Helping aspiring engineers understand the real-world attack surface and defensive methodologies.</li>
+        <li><strong>Founder of <a href="https://www.cyberdravida.in">CYBER DRAVIDA</a>:</strong> Established and leading <em>CYBER DRAVIDA ("Where Curiosity Meets Cybersecurity")</em> — a Karnataka-based cybersecurity organization committed to empowering students and developers through hands-on cybersecurity training, threat awareness, OSINT research, and defensive methodologies.</li>
+        <li><strong>Community Programs & 1:1 Mentorship:</strong> Delivering live community masterclasses, 1:1 hands-on ethical hacking coaching, OSINT research sessions, and free awareness programs for emerging defenders. Join classes and access materials via <a href="https://linktr.ee/cyberdravida"><strong>linktr.ee/cyberdravida</strong></a>.</li>
+        <li><strong>Startup Cohorts & Academic Workshops:</strong> Conducted cybersecurity awareness and foundational hygiene workshops for startup cohorts and collegiate developers, covering real-world threat vectors and defensive best practices.</li>
+        <li><strong>Content Creation & Teardowns:</strong> Publishing technical walk-throughs, threat breakdowns, and security tutorials across YouTube (<a href="https://www.youtube.com/@CYBERDRAVIDA"><code>@CYBERDRAVIDA</code></a>, <a href="https://www.youtube.com/@anonymous_3301x"><code>@anonymous_3301x</code></a>) and Medium.</li>
       </ul>
     </td>
   </tr>
@@ -193,16 +219,17 @@ aniket@security-ops:~# cat profile.json
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/Aniket886/hand-gestures">ArcMotion — Hand Gestures & Spatial UI</a></h4>
+      <h4>🛡️ <a href="https://www.cyberdravida.in">CYBER DRAVIDA — Cyber Security Organization</a></h4>
       <p>
-        <img src="https://img.shields.io/badge/Domain-AI%20%26%20Computer%20Vision-38BDF8?style=flat-square" alt="AI Domain" />
-        <img src="https://img.shields.io/badge/Status-Active-7EE787?style=flat-square" alt="Status Active" />
+        <img src="https://img.shields.io/badge/Role-Founder%20%26%20Lead-00E5FF?style=flat-square" alt="Founder & Lead" />
+        <img src="https://img.shields.io/badge/Focus-Training%20%26%20OSINT-7EE787?style=flat-square" alt="Training & OSINT" />
+        <a href="https://linktr.ee/cyberdravida"><img src="https://img.shields.io/badge/Hub-Linktree-43E660?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" /></a>
       </p>
       <p>
-        Next-generation spatial interaction and gesture tracking engine. Combines real-time hand-landmark recognition, gesture mapping, voice commands, and interactive UI responsiveness.
+        Karnataka-based cybersecurity organization committed to training, awareness, free masterclasses, 1:1 ethical hacking coaching, and OSINT research.
       </p>
       <p>
-        <code>Python</code> • <code>OpenCV</code> • <code>MediaPipe</code> • <code>Computer Vision</code> • <code>HCI</code>
+        <code>Cyber Education</code> • <code>Threat Awareness</code> • <code>OSINT Research</code> • <code>Mentorship</code>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -221,6 +248,19 @@ aniket@security-ops:~# cat profile.json
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/Aniket886/hand-gestures">ArcMotion — Hand Gestures & Spatial UI</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/Domain-AI%20%26%20Computer%20Vision-38BDF8?style=flat-square" alt="AI Domain" />
+        <img src="https://img.shields.io/badge/Status-Active-7EE787?style=flat-square" alt="Status Active" />
+      </p>
+      <p>
+        Next-generation spatial interaction and gesture tracking engine. Combines real-time hand-landmark recognition, gesture mapping, voice commands, and interactive UI responsiveness.
+      </p>
+      <p>
+        <code>Python</code> • <code>OpenCV</code> • <code>MediaPipe</code> • <code>Computer Vision</code> • <code>HCI</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h4>🌐 <a href="https://github.com/Aniket886/tech-carnival-site">Tech Carnival Portal</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Domain-Full--Stack%20Web-6366F1?style=flat-square" alt="Web Dev Domain" />
@@ -233,6 +273,8 @@ aniket@security-ops:~# cat profile.json
         <code>React</code> • <code>Tailwind CSS</code> • <code>Vite</code> • <code>Responsive Design</code>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🌍 <a href="https://github.com/Aniket886/terralens">Terralens</a></h4>
       <p>
@@ -244,6 +286,19 @@ aniket@security-ops:~# cat profile.json
       </p>
       <p>
         <code>Web App</code> • <code>Geospatial UI</code> • <code>Data Visualization</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⏱️ <a href="https://github.com/Aniket886/Date-Time-Offset-Application">Date-Time Offset Utility</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/Domain-Utility%20Software-F59E0B?style=flat-square" alt="Utility Domain" />
+        <img src="https://img.shields.io/badge/Status-Shipped-22C55E?style=flat-square" alt="Status Shipped" />
+      </p>
+      <p>
+        High-precision temporal computing tool engineered for offset calculations, cross-timezone scheduling, and accurate timestamp transformations.
+      </p>
+      <p>
+        <code>Utility App</code> • <code>Automation</code> • <code>Developer Tools</code>
       </p>
     </td>
   </tr>
@@ -351,13 +406,19 @@ aniket@security-ops:~# cat profile.json
 
 <div align="center">
   <p>
-    <em>"Security is not a product, but a continuous process of learning, building, and defending."</em>
+    <em>"Where Curiosity Meets Cybersecurity."</em>
   </p>
 
   <p>
-    I am actively open to collaborations in <strong>Cybersecurity Research</strong>, <strong>Digital Forensics Tooling</strong>, <strong>Full-Stack Product Builds</strong>, and conducting <strong>Cyber Defense Training & Workshops</strong>.
+    I am actively open to collaborations in <strong>Cybersecurity Research</strong>, <strong>Digital Forensics Tooling</strong>, <strong>Full-Stack Product Builds</strong>, and conducting <strong>Cyber Defense Training & Workshops via CYBER DRAVIDA</strong>.
   </p>
 
+  <a href="https://www.cyberdravida.in" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-CYBER%20DRAVIDA-00E5FF?style=for-the-badge&logo=shield&logoColor=black" alt="Visit Cyber Dravida" />
+  </a>
+  <a href="https://linktr.ee/cyberdravida" target="_blank">
+    <img src="https://img.shields.io/badge/Community%20Hub-Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=black" alt="Cyber Dravida Linktree" />
+  </a>
   <a href="mailto:aniket.gmu@gmail.com">
     <img src="https://img.shields.io/badge/Get%20in%20Touch-111827?style=for-the-badge&logo=minutemailer&logoColor=38BDF8" alt="Get In Touch" />
   </a>
@@ -366,5 +427,5 @@ aniket@security-ops:~# cat profile.json
   </a>
 
   <br /><br />
-  <sub>Designed &amp; Maintained with precision by <strong>Aniket Tegginamath</strong> • 2026</sub>
+  <sub>Founded &amp; Engineered by <strong>Aniket Tegginamath</strong> • CYBER DRAVIDA • 2026</sub>
 </div>
