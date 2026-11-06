@@ -128,7 +128,6 @@ def fmt_range(start, end):
 def generate_svg(total, cur_streak, cur_start, cur_end, lng_streak, lng_start, lng_end):
     bg      = "#151515"
     border  = "#555555"
-    ring    = "#FF9500"
     fire    = "#FF9500"
     num_col = "#FFFFFF"
     lbl_col = "#FFFFFF"
@@ -144,12 +143,41 @@ def generate_svg(total, cur_streak, cur_start, cur_end, lng_streak, lng_start, l
     cur_range = fmt_range(cur_start, cur_end) if cur_streak > 0 else "No active streak"
     lng_range = fmt_range(lng_start, lng_end) if lng_streak > 0 else "-"
 
-    # Flame shape sits into the ring, matching the reference badge style.
-    flame_outer = "M0-22C8-14 10-7 5 0C10-2 13-8 9-16C20-6 16 9 4 12C-8 15-15 5-10-6C-8-12-4-17 0-22Z"
-    flame_cutout = "M1-9C5-4 5 2 1 5C-4 1-4-5 1-9Z"
+    flame_outer = (
+        "M2-58C8-44 24-36 30-18C35-3 33 18 22 30C14 38 7 41 0 41C-7 41-14 38-22 30"
+        "C-33 18-35-3-29-18C-26-26-20-31-17-40C-12-32-10-27-8-22C-9-36-5-48 2-58Z"
+    )
+    flame_mid = (
+        "M1-38C6-28 18-21 21-8C24 5 21 18 13 26C9 30 4 32 0 32C-4 32-9 30-13 26"
+        "C-21 18-24 5-20-8C-17-17-11-22-7-29C-5-23-3-19-2-15C-3-25 0-32 1-38Z"
+    )
+    flame_core = "M0-14C5-7 13-1 13 10C13 20 7 27 0 27C-7 27-13 20-13 10C-13 1-6-5 0-14Z"
+    num_size = 28 if len(str(cur_streak)) < 4 else 22
 
     return f"""<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
   style="isolation:isolate" viewBox="0 0 495 195" width="495px" height="195px">
+  <defs>
+    <linearGradient id="flameOuter" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#FF9500"/>
+      <stop offset="0.55" stop-color="#FF5A00"/>
+      <stop offset="1" stop-color="#E01E00"/>
+    </linearGradient>
+    <linearGradient id="flameMid" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#FFD54F"/>
+      <stop offset="1" stop-color="#FF9500"/>
+    </linearGradient>
+    <radialGradient id="flameGlow" cx="0.5" cy="0.6" r="0.5">
+      <stop offset="0" stop-color="#FF7A00" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FF7A00" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .flicker {{ transform-box: fill-box; transform-origin: 50% 100%; animation: flicker 1.6s ease-in-out infinite; }}
+      .flicker2 {{ transform-box: fill-box; transform-origin: 50% 100%; animation: flicker 1.1s ease-in-out infinite reverse; }}
+      .glow {{ animation: glow 2.4s ease-in-out infinite; }}
+      @keyframes flicker {{ 0%,100% {{ transform: scale(1,1) skewX(0deg); }} 30% {{ transform: scale(1.03,0.96) skewX(-2deg); }} 60% {{ transform: scale(0.97,1.05) skewX(2deg); }} }}
+      @keyframes glow {{ 0%,100% {{ opacity: 0.7; }} 50% {{ opacity: 1; }} }}
+    </style>
+  </defs>
   <rect x="0.5" y="0.5" width="494" height="194" fill="{bg}" stroke="{border}" rx="3.5"/>
 
   <!-- Section dividers -->
@@ -168,13 +196,14 @@ def generate_svg(total, cur_streak, cur_start, cur_end, lng_streak, lng_start, l
 
   <!-- CENTER: Current Streak -->
   <g transform="translate(247.5,75)">
-    <g transform="translate(0,-39) scale(0.78)">
-      <path fill="{fire}" d="{flame_outer}"/>
-      <path fill="{bg}" d="{flame_cutout}"/>
+    <ellipse class="glow" cx="0" cy="-6" rx="58" ry="52" fill="url(#flameGlow)"/>
+    <g transform="translate(0,-4) scale(1.1)">
+      <path class="flicker" fill="url(#flameOuter)" d="{flame_outer}"/>
+      <path class="flicker2" fill="url(#flameMid)" d="{flame_mid}"/>
+      <path fill="#FFF3C4" opacity="0.9" d="{flame_core}"/>
     </g>
-    <circle cx="0" cy="0" r="37" fill="none" stroke="{ring}" stroke-width="5"/>
-    <text y="10" text-anchor="middle" fill="{num_col}"
-      font-family="Segoe UI,Ubuntu,sans-serif" font-size="28" font-weight="700">{cur_streak}</text>
+    <text y="18" text-anchor="middle" fill="{bg}"
+      font-family="Segoe UI,Ubuntu,sans-serif" font-size="{num_size}" font-weight="800">{cur_streak}</text>
     <text y="62" text-anchor="middle" fill="{fire}"
       font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="600">Current Streak</text>
     <text y="88" text-anchor="middle" fill="{dt_col}"
