@@ -1,15 +1,12 @@
 <div align="center">
 
   <!-- ░░ HERO BANNER ░░ -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,35:0A3D2E,70:1F6FEB,100:A855F7&text=Aniket%20Tegginamath&fontColor=00FF9C&fontSize=52&fontAlignY=38&stroke=00FF9C&strokeWidth=1&desc=Founder%20%40%20CYBER%20DRAVIDA%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20AI/ML%20%E2%80%A2%20Forensics&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Aniket Tegginamath Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0D1117&text=Aniket%20Tegginamath&fontColor=FFFFFF&fontSize=46&fontAlignY=42&desc=Founder%20%40%20CYBER%20DRAVIDA%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20AI/ML%20%E2%80%A2%20Forensics&descSize=16&descAlignY=70" width="100%" alt="Aniket Tegginamath Banner" />
 
   <!-- ░░ TYPING TAGLINE ░░ -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&multiline=false&width=680&height=40&lines=%3E+whoami+%E2%86%92+D4rkMatrix;Founder+%40+CYBER+DRAVIDA;Cybersecurity+Student+%26+Defensive+Builder;Ethical+Hacker+%7C+CTF+Player;Full-Stack+Web+Developer;Applied+AI+%26+Computer+Vision+Engineer;OSINT+%26+Digital+Forensics+Investigator;Cyber+Security+Trainer+%26+Speaker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=false&width=680&height=40&lines=Founder+%40+CYBER+DRAVIDA;Cybersecurity+Student+%26+Defensive+Builder;Ethical+Hacker+%7C+CTF+Player;Full-Stack+Web+Developer;Applied+AI+%26+Computer+Vision+Engineer;OSINT+%26+Digital+Forensics+Investigator;Cyber+Security+Trainer+%26+Speaker" alt="Typing SVG" />
   </a>
-
-  <!-- ░░ ANIMATED CYBER HUD ░░ -->
-  <img src="./assets/cyber-hud.svg" width="100%" alt="Animated cyber HUD: decrypt stream, threat radar and neural network" />
 
   <p>
     <strong>Founder of CYBER DRAVIDA • Building resilient systems, investigating digital threats, shipping intelligent web apps, and training future defenders.</strong>
@@ -17,9 +14,9 @@
 
   <!-- ░░ LIVE PROFILE COUNTERS ░░ -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Aniket886&label=PROFILE%20VIEWS&color=1f6feb&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/Aniket886?label=FOLLOWERS&style=for-the-badge&color=00ff9c&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/Aniket886?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=a855f7&logo=apachespark&logoColor=white&labelColor=0d1117" alt="GitHub Stars" />
+    <img src="https://komarev.com/ghpvc/?username=Aniket886&label=PROFILE%20VIEWS&color=2f81f7&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/Aniket886?label=FOLLOWERS&style=for-the-badge&color=2f81f7&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/Aniket886?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=2f81f7&logo=apachespark&logoColor=white&labelColor=0d1117" alt="GitHub Stars" />
   </p>
 
   <!-- ░░ SOCIAL & CONNECTION BAR ░░ -->
@@ -42,6 +39,9 @@
     <a href="mailto:aniket.gmu@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="https://t.me/emailosint_bot" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-OSINT%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram OSINT Bot" />
+    </a>
     <a href="https://www.buymeacoffee.com/aniket_tegginamath" target="_blank">
       <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
     </a>
@@ -53,40 +53,66 @@
     <code><a href="#pillars">0x02 pillars</a></code> •
     <code><a href="#arsenal">0x03 arsenal</a></code> •
     <code><a href="#projects">0x04 projects</a></code> •
-    <code><a href="#credentials">0x05 credentials</a></code> •
-    <code><a href="#telemetry">0x06 telemetry</a></code> •
-    <code><a href="#connect">0x07 connect</a></code>
+    <code><a href="#cyberdravida">0x05 cyber dravida</a></code> •
+    <code><a href="#credentials">0x06 credentials</a></code> •
+    <code><a href="#telemetry">0x07 telemetry</a></code> •
+    <code><a href="#connect">0x08 connect</a></code>
   </p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00FF9C,50:1F6FEB,100:A855F7" width="100%" alt="" />
-
 <a id="whoami"></a>
 
-## ⚡ `0x01` // Cyber HUD & Executive Overview
+## 👤 `0x01` // Profile Overview
 
-```bash
-aniket@security-ops:~# cat profile.json
-{
-  "name": "Aniket Tegginamath",
-  "callsign": "D4rkMatrix",
-  "linktree": "https://linktr.ee/anikettegginamath",
-  "founder": "CYBER DRAVIDA (https://cyberdravida.in)",
-  "location": "Bangalore, Karnataka, India 🇮🇳",
-  "academics": "BCA (Bachelor of Computer Applications) @ GM University",
-  "credentials": ["(ISC)² Candidate", "Google Cybersecurity Certified", "MongoDB AI & Innovation"],
-  "disciplines": [
-    "Founder & Lead Trainer @ CYBER DRAVIDA",
-    "Cybersecurity Student & Ethical Hacker",
-    "Full-Stack Web Architect",
-    "Applied AI/ML & Computer Vision Developer",
-    "Digital Forensics & OSINT Investigator"
-  ],
-  "mission": "Empowering future defenders through CYBER DRAVIDA, engineering secure-by-design applications, and automating digital investigations.",
-  "status": "🟢 Actively Building, Auditing & Mentoring"
-}
-```
+<table width="100%">
+  <tr>
+    <td width="26%"><strong>Name</strong></td>
+    <td>Aniket Tegginamath</td>
+  </tr>
+  <tr>
+    <td><strong>Callsign</strong></td>
+    <td><a href="https://tryhackme.com/p/D4rkMatrix"><code>D4rkMatrix</code></a></td>
+  </tr>
+  <tr>
+    <td><strong>Founder</strong></td>
+    <td><a href="https://www.cyberdravida.in">CYBER DRAVIDA</a> — cybersecurity training, awareness & OSINT investigation</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Bangalore, Karnataka, India 🇮🇳</td>
+  </tr>
+  <tr>
+    <td><strong>Academics</strong></td>
+    <td>BCA (Bachelor of Computer Applications) @ GM University</td>
+  </tr>
+  <tr>
+    <td><strong>Credentials</strong></td>
+    <td>(ISC)² Candidate • Google Cybersecurity Certified • MongoDB AI & Innovation</td>
+  </tr>
+  <tr>
+    <td><strong>Disciplines</strong></td>
+    <td>
+      Founder & Lead Trainer @ CYBER DRAVIDA<br />
+      Cybersecurity Student & Ethical Hacker<br />
+      Full-Stack Web Architect<br />
+      Applied AI/ML & Computer Vision Developer<br />
+      Digital Forensics & OSINT Investigator
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Mission</strong></td>
+    <td>Empowering future defenders through CYBER DRAVIDA, engineering secure-by-design applications, and automating digital investigations.</td>
+  </tr>
+  <tr>
+    <td><strong>Status</strong></td>
+    <td>🟢 Actively Building, Auditing & Mentoring</td>
+  </tr>
+  <tr>
+    <td><strong>Links</strong></td>
+    <td><a href="https://linktr.ee/anikettegginamath">linktr.ee/anikettegginamath</a> • <a href="https://www.cyberdravida.in">cyberdravida.in</a></td>
+  </tr>
+</table>
 
 <a id="pillars"></a>
 
@@ -134,7 +160,7 @@ aniket@security-ops:~# cat profile.json
       <h4>🎓 5. Cybersecurity Trainer & Community Educator — Founder, CYBER DRAVIDA</h4>
       <p>
         <a href="https://www.cyberdravida.in" target="_blank">
-          <img src="https://img.shields.io/badge/Founder-CYBER%20DRAVIDA-00E5FF?style=flat-square&logo=shieldsdotio&logoColor=black" alt="Cyber Dravida Founder" />
+          <img src="https://img.shields.io/badge/Founder-CYBER%20DRAVIDA-1F6FEB?style=flat-square&logo=shieldsdotio&logoColor=white" alt="Cyber Dravida Founder" />
         </a>
         <a href="https://www.cyberdravida.in" target="_blank">
           <img src="https://img.shields.io/badge/Official%20Site-cyberdravida.in-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white" alt="cyberdravida.in" />
@@ -177,15 +203,15 @@ aniket@security-ops:~# cat profile.json
       <sub><em>I also know this type of programming language, integration & tooling</em></sub>
       <br /><br />
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,java,postgres,mongodb,supabase,docker&perline=6" alt="C, Java, PostgreSQL, MongoDB, Supabase, Docker" />
+        <img src="https://skillicons.dev/icons?i=c,java,mongodb,supabase,docker&perline=6" alt="C, Java, MongoDB, Supabase, Docker" />
       </a>
       <br />
       <img src="https://img.shields.io/badge/Supabase_Integration-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase Integration" />
       <img src="https://img.shields.io/badge/%F0%9F%A6%9E_OpenClaw-E8452C?style=flat-square" alt="OpenClaw" />
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       <br />
-      <sub><code>C</code> · <code>Java</code> · <code>SQL</code> · <code>PostgreSQL</code> · <code>MongoDB</code> · <code>Supabase</code> · <code>OpenClaw</code> · <code>Docker</code></sub>
+      <sub><code>C</code> · <code>Java</code> · <code>SQL</code> · <code>MongoDB</code> · <code>Supabase</code> · <code>OpenClaw</code> · <code>Docker</code></sub>
     </td>
   </tr>
 </table>
@@ -304,7 +330,7 @@ aniket@security-ops:~# cat profile.json
     <td width="50%" valign="top">
       <h4>🛡️ <a href="https://www.cyberdravida.in">CYBER DRAVIDA Platform</a></h4>
       <p>
-        <img src="https://img.shields.io/badge/Role-Founder%20%26%20Lead-00E5FF?style=flat-square" alt="Founder & Lead" />
+        <img src="https://img.shields.io/badge/Role-Founder%20%26%20Lead-1F6FEB?style=flat-square" alt="Founder & Lead" />
         <img src="https://img.shields.io/badge/Trained-1500%2B%20Students-7EE787?style=flat-square&logo=target&logoColor=black" alt="1500+ Students" />
       </p>
       <ul>
@@ -325,17 +351,79 @@ aniket@security-ops:~# cat profile.json
       </ul>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🕵️ <a href="https://t.me/emailosint_bot">ALL OSINT BOT — Telegram Investigator</a></h4>
+      <p>
+        <a href="https://t.me/emailosint_bot"><img src="https://img.shields.io/badge/Telegram-%40emailosint__bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="@emailosint_bot on Telegram" /></a>
+        <img src="https://img.shields.io/badge/OSINT-Investigation-374151?style=flat-square" alt="OSINT" />
+        <a href="https://www.cyberdravida.in/osint-bot"><img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square" alt="Live" /></a>
+      </p>
+      <ul>
+        <li>OSINT intelligence bot on Telegram for email scans and breach lookups.</li>
+        <li>Generates forensic PDF reports from investigation results — open <a href="https://t.me/emailosint_bot"><code>@emailosint_bot</code></a> to start.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<a id="cyberdravida"></a>
+
+## 🛡️ `0x05` // CYBER DRAVIDA — Academy, Services & Products
+
+<p align="center">
+  <a href="https://www.cyberdravida.in"><img src="https://img.shields.io/badge/Website-cyberdravida.in-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="cyberdravida.in" /></a>
+  <a href="https://www.cyberdravida.in/courses/free"><img src="https://img.shields.io/badge/Free%20Course-Beginners%20Start%20Here-22C55E?style=for-the-badge" alt="Free course for beginners" /></a>
+  <a href="https://www.cyberdravida.in/msme"><img src="https://img.shields.io/badge/Govt.%20of%20India-MSME%20Registered-374151?style=for-the-badge" alt="MSME Registered" /></a>
+</p>
+
+<p align="center"><em>A Karnataka-born cybersecurity enterprise making practical security knowledge accessible beyond metropolitan hubs — where I teach, train and build.</em></p>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🎓 Courses</h4>
+      <ul>
+        <li><a href="https://www.cyberdravida.in/courses/free"><strong>Free Sessions</strong></a> — beginner-friendly course with a live roadmap session and hands-on labs for students new to cybersecurity</li>
+        <li><a href="https://www.cyberdravida.in/courses/eh-eng">Ethical Hacking Training</a></li>
+        <li><a href="https://www.cyberdravida.in/courses/linux-for-beginners">Linux for Hackers — Zero to Advanced</a></li>
+        <li><a href="https://www.cyberdravida.in/courses/ai-rev">AI Reverse Engineering</a></li>
+        <li><a href="https://www.cyberdravida.in/courses">View all courses →</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🧩 Services</h4>
+      <ul>
+        <li><a href="https://www.cyberdravida.in/services/cybersecurity-training">Cybersecurity Training</a></li>
+        <li><a href="https://www.cyberdravida.in/services/awareness-outreach">Awareness Outreach</a> — campus workshops & seminars</li>
+        <li><a href="https://www.cyberdravida.in/services/ctf-competitions">CTF Competitions</a></li>
+        <li><a href="https://www.cyberdravida.in/services/osint-investigation">OSINT & Investigation</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🛠️ Products & Community</h4>
+      <ul>
+        <li><a href="https://www.cyberdravida.in/product">Products & Tools</a></li>
+        <li><a href="https://www.cyberdravida.in/osint-bot">ALL OSINT BOT</a> (<a href="https://t.me/emailosint_bot">Telegram</a>)</li>
+        <li><a href="https://www.cyberdravida.in/events">Events & Free Sessions</a></li>
+        <li><a href="https://www.cyberdravida.in/verify">Verify a Certificate</a></li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 <a id="credentials"></a>
 
-## 🏆 `0x05` // Credentials, Honors & Certifications
+## 🏆 `0x06` // Credentials, Honors & Certifications
 
 <div align="center">
   <p>
-    <a href="https://tryhackme.com/p/D4rkMatrix" target="_blank">
-      <img src="https://tryhackme-badges.s3.amazonaws.com/D4rkMatrix.png" alt="TryHackMe Profile Badge" />
+    <a href="https://tryhackme.com/p/D4rkMatrix" target="_blank" title="Open D4rkMatrix on TryHackMe">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/D4rkMatrix.png" alt="TryHackMe Profile Badge — D4rkMatrix" />
     </a>
+    <br />
+    <a href="https://tryhackme.com/p/D4rkMatrix" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-View%20Profile-A71D2A?style=flat-square&logo=tryhackme&logoColor=white" alt="View TryHackMe profile" /></a>
+    <a href="https://tryhackme.com/badge/t/5674b162d85b3d0876ef091d93df1cf368af5239e3e18de1747f6efef4241cfc5accb2071ab3548d228d8c35b2b97da6/embed?theme=dark" target="_blank"><img src="https://img.shields.io/badge/Live%20Badge-Top%201%25-374151?style=flat-square&logo=tryhackme&logoColor=white" alt="Open live TryHackMe badge" /></a>
   </p>
 
   <table border="0">
@@ -398,7 +486,7 @@ aniket@security-ops:~# cat profile.json
 
 <a id="telemetry"></a>
 
-## 📊 `0x06` // Live Telemetry & Activity
+## 📊 `0x07` // Live Telemetry & Activity
 
 <div align="center">
 
@@ -420,7 +508,7 @@ aniket@security-ops:~# cat profile.json
 
 <a id="connect"></a>
 
-## 🤝 `0x07` // Connect & Collaborate
+## 🤝 `0x08` // Connect & Collaborate
 
 <table width="100%">
   <tr>
@@ -430,7 +518,7 @@ aniket@security-ops:~# cat profile.json
         I am actively open to collaborations in <strong>Cybersecurity Research</strong>, <strong>Digital Forensics Tooling</strong>, <strong>Full-Stack Product Builds</strong>, and conducting <strong>Cyber Defense Training & Workshops via CYBER DRAVIDA</strong>.
       </p>
       <a href="https://www.cyberdravida.in" target="_blank">
-        <img src="https://img.shields.io/badge/Visit-cyberdravida.in-00E5FF?style=for-the-badge&logo=shieldsdotio&logoColor=black" alt="Visit cyberdravida.in" />
+        <img src="https://img.shields.io/badge/Visit-cyberdravida.in-1F6FEB?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="Visit cyberdravida.in" />
       </a>
       <a href="mailto:aniket.gmu@gmail.com">
         <img src="https://img.shields.io/badge/Get%20in%20Touch-111827?style=for-the-badge&logo=minutemailer&logoColor=38BDF8" alt="Get In Touch" />
@@ -457,5 +545,5 @@ aniket@security-ops:~# cat profile.json
 <div align="center">
   <br />
   <sub>Founded &amp; Engineered by <strong>Aniket Tegginamath</strong> • CYBER DRAVIDA • 2026 • <a href="#whoami">↑ back to top</a></sub>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:A855F7,50:1F6FEB,100:00FF9C" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0D1117" width="100%" alt="" />
 </div>
