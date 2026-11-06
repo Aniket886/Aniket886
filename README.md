@@ -1,37 +1,39 @@
 <div align="center">
-  <!-- Dynamic Hero Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1020,25:111827,50:1F6FEB,75:38BDF8,100:7EE787&text=Aniket%20Tegginamath&fontColor=F0F6FC&fontSize=44&fontAlignY=36&desc=Founder%20%40%20CYBER%20DRAVIDA%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20AI/ML%20%E2%80%A2%20Forensics&descFontSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Aniket Tegginamath Banner" />
 
-  <br />
+  <!-- ░░ HERO BANNER ░░ -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,35:0A3D2E,70:1F6FEB,100:A855F7&text=Aniket%20Tegginamath&fontColor=00FF9C&fontSize=52&fontAlignY=38&stroke=00FF9C&strokeWidth=1&desc=Founder%20%40%20CYBER%20DRAVIDA%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20AI/ML%20%E2%80%A2%20Forensics&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Aniket Tegginamath Banner" />
 
-  <!-- Animated Typing Tagline -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=40&lines=Founder+%40+CYBER+DRAVIDA;Cybersecurity+Student+%26+Defensive+Builder;Full-Stack+Web+Developer;Applied+AI+%26+Computer+Vision+Engineer;OSINT+%26+Digital+Forensics+Investigator;Cyber+Security+Trainer+%26+Speaker" alt="Typing SVG" />
+  <!-- ░░ TYPING TAGLINE ░░ -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&multiline=false&width=680&height=40&lines=%3E+whoami+%E2%86%92+D4rkMatrix;Founder+%40+CYBER+DRAVIDA;Cybersecurity+Student+%26+Defensive+Builder;Ethical+Hacker+%7C+CTF+Player;Full-Stack+Web+Developer;Applied+AI+%26+Computer+Vision+Engineer;OSINT+%26+Digital+Forensics+Investigator;Cyber+Security+Trainer+%26+Speaker" alt="Typing SVG" />
   </a>
 
-  <p align="center">
+  <!-- ░░ ANIMATED CYBER HUD ░░ -->
+  <img src="./assets/cyber-hud.svg" width="100%" alt="Animated cyber HUD: decrypt stream, threat radar and neural network" />
+
+  <p>
     <strong>Founder of CYBER DRAVIDA • Building resilient systems, investigating digital threats, shipping intelligent web apps, and training future defenders.</strong>
   </p>
 
-  <!-- Live Profile Counters -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Aniket886&label=PROFILE%20VIEWS&color=1f6feb&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/Aniket886?label=FOLLOWERS&style=for-the-badge&color=7ee787&logo=github&logoColor=white&labelColor=111827" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/Aniket886?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=38bdf8&logo=apachespark&logoColor=white&labelColor=111827" alt="GitHub Stars" />
+  <!-- ░░ LIVE PROFILE COUNTERS ░░ -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Aniket886&label=PROFILE%20VIEWS&color=1f6feb&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/Aniket886?label=FOLLOWERS&style=for-the-badge&color=00ff9c&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/Aniket886?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=a855f7&logo=apachespark&logoColor=white&labelColor=0d1117" alt="GitHub Stars" />
   </p>
 
-  <!-- Social & Connection Bar -->
-  <p align="center">
+  <!-- ░░ SOCIAL & CONNECTION BAR ░░ -->
+  <p>
     <a href="https://linktr.ee/anikettegginamath" target="_blank">
       <img src="https://img.shields.io/badge/Linktree-anikettegginamath-43E660?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" />
     </a>
     <a href="https://www.linkedin.com/in/aniket-tegginamath-420324251/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" />
     </a>
     <a href="https://tryhackme.com/p/D4rkMatrix" target="_blank">
       <img src="https://img.shields.io/badge/TryHackMe-D4rkMatrix-A71D2A?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
     </a>
-    <a href="http://medium.com/@anikettegginamath" target="_blank">
+    <a href="https://medium.com/@anikettegginamath" target="_blank">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
     </a>
     <a href="https://www.youtube.com/@anonymous_3301x" target="_blank">
@@ -44,11 +46,25 @@
       <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
     </a>
   </p>
+
+  <!-- ░░ QUICK NAV ░░ -->
+  <p>
+    <code><a href="#whoami">0x01 whoami</a></code> •
+    <code><a href="#pillars">0x02 pillars</a></code> •
+    <code><a href="#arsenal">0x03 arsenal</a></code> •
+    <code><a href="#projects">0x04 projects</a></code> •
+    <code><a href="#credentials">0x05 credentials</a></code> •
+    <code><a href="#telemetry">0x06 telemetry</a></code> •
+    <code><a href="#connect">0x07 connect</a></code>
+  </p>
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00FF9C,50:1F6FEB,100:A855F7" width="100%" alt="" />
 
-### ⚡ Cyber HUD & Executive Overview
+<a id="whoami"></a>
+
+## ⚡ `0x01` // Cyber HUD & Executive Overview
 
 ```bash
 aniket@security-ops:~# cat profile.json
@@ -72,9 +88,9 @@ aniket@security-ops:~# cat profile.json
 }
 ```
 
----
+<a id="pillars"></a>
 
-### 🏛️ The Five Pillars of Practice
+## 🏛️ `0x02` // The Five Pillars of Practice
 
 <table width="100%">
   <tr>
@@ -83,7 +99,7 @@ aniket@security-ops:~# cat profile.json
       <ul>
         <li><strong>Core Focus:</strong> Vulnerability assessment, hardening, and network security.</li>
         <li><strong>Credentials:</strong> (ISC)² Candidate & Google Cybersecurity Certified.</li>
-        <li><strong>Hands-On:</strong> Active CTF & security lab solver on TryHackMe (<code>D4rkMatrix</code>).</li>
+        <li><strong>Hands-On:</strong> Active CTF & security lab solver on <a href="https://tryhackme.com/p/D4rkMatrix">TryHackMe</a> (<code>D4rkMatrix</code>).</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -99,7 +115,7 @@ aniket@security-ops:~# cat profile.json
     <td width="50%" valign="top">
       <h4>🤖 3. AI / ML & Spatial Systems</h4>
       <ul>
-        <li><strong>Computer Vision:</strong> Real-time gesture tracking & spatial interaction (<em>ArcMotion</em>).</li>
+        <li><strong>Computer Vision:</strong> Real-time gesture tracking & spatial interaction (<a href="#projects"><em>ArcMotion</em></a>).</li>
         <li><strong>Local AI & Agents:</strong> Local LLMs via Ollama, agentic workflows, and code AI tools.</li>
         <li><strong>Resilience:</strong> Scalable AI patterns recognized by MongoDB AI & Innovation.</li>
       </ul>
@@ -108,8 +124,8 @@ aniket@security-ops:~# cat profile.json
       <h4>🔍 4. Forensics & OSINT</h4>
       <ul>
         <li><strong>OSINT Recon:</strong> Asset reconnaissance, digital footprints, and threat intelligence.</li>
-        <li><strong>DFIR Tooling:</strong> Anti-forensic data sanitization (<em>Data Wiping Tool</em>) & hash analysis.</li>
-        <li><strong>Achievements:</strong> Proven badges in OhSINT, Hash analysis, and forensic rooms.</li>
+        <li><strong>DFIR Tooling:</strong> Anti-forensic data sanitization (<a href="https://aniket886.github.io/datawipingtool/#download"><em>Data Wiping Tool</em></a>) & hash analysis.</li>
+        <li><strong>Achievements:</strong> Proven badges in OhSINT, Hash analysis, and forensic rooms (<a href="#credentials">see credentials</a>).</li>
       </ul>
     </td>
   </tr>
@@ -118,7 +134,7 @@ aniket@security-ops:~# cat profile.json
       <h4>🎓 5. Cybersecurity Trainer & Community Educator — Founder, CYBER DRAVIDA</h4>
       <p>
         <a href="https://www.cyberdravida.in" target="_blank">
-          <img src="https://img.shields.io/badge/Founder-CYBER%20DRAVIDA-00E5FF?style=flat-square&logo=shield&logoColor=black" alt="Cyber Dravida Founder" />
+          <img src="https://img.shields.io/badge/Founder-CYBER%20DRAVIDA-00E5FF?style=flat-square&logo=shieldsdotio&logoColor=black" alt="Cyber Dravida Founder" />
         </a>
         <a href="https://www.cyberdravida.in" target="_blank">
           <img src="https://img.shields.io/badge/Official%20Site-cyberdravida.in-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white" alt="cyberdravida.in" />
@@ -134,37 +150,59 @@ aniket@security-ops:~# cat profile.json
       <ul>
         <li><strong>Founder @ <a href="https://www.cyberdravida.in">CYBER DRAVIDA</a>:</strong> Spearheading defensive security education, OSINT research, and digital threat awareness.</li>
         <li><strong>Community Impact:</strong> Mentored & trained <strong>1,500+ students</strong> and startup cohorts in cyber defense, ethical hacking, and threat mitigation.</li>
-        <li><strong>Hands-On Training:</strong> Delivering 1:1 mentorship, live community masterclasses, and technical security breakdowns on YouTube & Medium.</li>
+        <li><strong>Hands-On Training:</strong> Delivering 1:1 mentorship, live community masterclasses, and technical security breakdowns on <a href="https://www.youtube.com/@CYBERDRAVIDA">YouTube</a> & <a href="https://medium.com/@anikettegginamath">Medium</a>.</li>
       </ul>
     </td>
   </tr>
 </table>
 
----
+<a id="arsenal"></a>
 
-### 🛠️ Technical Arsenal & Ecosystem
+## 🛠️ `0x03` // Technical Arsenal & Ecosystem
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>⚔️ I Worked With</h3>
+      <sub><em>I worked with this type of programming language — shipped in real projects</em></sub>
+      <br /><br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ts,js,html,css,python,bash&perline=6" alt="TypeScript, JavaScript, HTML, CSS, Python, Bash" />
+      </a>
+      <br />
+      <sub><code>TypeScript</code> · <code>JavaScript</code> · <code>HTML</code> · <code>CSS</code> · <code>Python</code> · <code>Bash</code></sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🧠 I Also Know</h3>
+      <sub><em>I also know this type of programming language, integration & tooling</em></sub>
+      <br /><br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,java,postgres,mongodb,supabase,docker&perline=6" alt="C, Java, PostgreSQL, MongoDB, Supabase, Docker" />
+      </a>
+      <br />
+      <img src="https://img.shields.io/badge/Supabase_Integration-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase Integration" />
+      <img src="https://img.shields.io/badge/%F0%9F%A6%9E_OpenClaw-E8452C?style=flat-square" alt="OpenClaw" />
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <br />
+      <sub><code>C</code> · <code>Java</code> · <code>SQL</code> · <code>PostgreSQL</code> · <code>MongoDB</code> · <code>Supabase</code> · <code>OpenClaw</code> · <code>Docker</code></sub>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
   <!-- Security & Investigation -->
   <p><strong>🛡️ Security, Forensics & OSINT</strong></p>
   <p>
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
     <img src="https://img.shields.io/badge/Metasploit-111827?style=for-the-badge&logo=metasploit&logoColor=38BDF8" alt="Metasploit" />
-    <img src="https://img.shields.io/badge/Nmap-002B49?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+    <img src="https://img.shields.io/badge/Nmap-002B49?style=for-the-badge&logo=target&logoColor=white" alt="Nmap" />
     <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
     <img src="https://img.shields.io/badge/OSINT-111827?style=for-the-badge&logo=proton&logoColor=7EE787" alt="OSINT" />
     <img src="https://img.shields.io/badge/Digital_Forensics-111827?style=for-the-badge&logo=datadog&logoColor=38BDF8" alt="Digital Forensics" />
     <img src="https://img.shields.io/badge/Ethical_Hacking-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Ethical Hacking" />
-  </p>
-
-  <!-- Languages -->
-  <p><strong>💻 Languages & Scripting</strong></p>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,bash,c,java,js,ts,html,css" alt="Languages" />
-    </a>
   </p>
 
   <!-- Web & Backend Engineering -->
@@ -175,7 +213,7 @@ aniket@security-ops:~# cat profile.json
     </a>
     <br />
     <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-    <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=webhooks&logoColor=white" alt="Webhooks" />
+    <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=githubactions&logoColor=white" alt="Webhooks" />
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -188,7 +226,7 @@ aniket@security-ops:~# cat profile.json
     <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
     <img src="https://img.shields.io/badge/Local_LLM-6B21A8?style=for-the-badge&logo=huggingface&logoColor=white" alt="Local LLM" />
     <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-    <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+    <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openaigym&logoColor=white" alt="Codex" />
     <img src="https://img.shields.io/badge/Perplexity_Pro-20808D?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity Pro" />
   </p>
 
@@ -206,17 +244,18 @@ aniket@security-ops:~# cat profile.json
 
 </div>
 
----
+<a id="projects"></a>
 
-### 🚀 Featured Systems & Project Radar
+## 🚀 `0x04` // Featured Systems & Project Radar
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/Aniket886/hand-gestures">ArcMotion — Hand Gestures & Spatial UI</a></h4>
+      <h4>🤖 <a href="https://hand-gestures-lovat.vercel.app">ArcMotion — Hand Gestures & Spatial UI</a></h4>
       <p>
         <img src="https://img.shields.io/badge/AI%20%26%20Vision-38BDF8?style=flat-square" alt="AI & Vision" />
         <img src="https://img.shields.io/badge/Python%20%E2%80%A2%20OpenCV-7EE787?style=flat-square" alt="Python OpenCV" />
+        <a href="https://hand-gestures-lovat.vercel.app"><img src="https://img.shields.io/badge/Status-Live%20Demo-22C55E?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
       </p>
       <ul>
         <li>Real-time hand-landmark recognition and spatial gesture tracking engine.</li>
@@ -227,7 +266,7 @@ aniket@security-ops:~# cat profile.json
       <h4>🛡️ <a href="https://aniket886.github.io/datawipingtool/#download">Secure Data Wiping Tool</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Anti--Forensics-F43F5E?style=flat-square" alt="Anti-Forensics" />
-        <img src="https://img.shields.io/badge/Status-Live%20Download-22C55E?style=flat-square" alt="Live Download" />
+        <a href="https://aniket886.github.io/datawipingtool/#download"><img src="https://img.shields.io/badge/Status-Live%20Download-22C55E?style=flat-square" alt="Live Download" /></a>
       </p>
       <ul>
         <li>Anti-forensics disk sanitization preventing digital forensic reconstruction.</li>
@@ -237,10 +276,11 @@ aniket@security-ops:~# cat profile.json
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 <a href="https://github.com/Aniket886/tech-carnival-site">Tech Carnival Portal</a></h4>
+      <h4>🌐 Tech Carnival Portal</h4>
       <p>
         <img src="https://img.shields.io/badge/Full--Stack%20Web-6366F1?style=flat-square" alt="Web Dev" />
         <img src="https://img.shields.io/badge/React%20%E2%80%A2%20Tailwind-06B6D4?style=flat-square" alt="React Tailwind" />
+        <img src="https://img.shields.io/badge/%F0%9F%94%92-Private%20Repo-374151?style=flat-square" alt="Private Repo" />
       </p>
       <ul>
         <li>Interactive hackathon and event portal featuring live agenda timelines.</li>
@@ -248,10 +288,11 @@ aniket@security-ops:~# cat profile.json
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🌍 <a href="https://github.com/Aniket886/terralens">Terralens</a></h4>
+      <h4>🌍 Terralens</h4>
       <p>
         <img src="https://img.shields.io/badge/Geospatial%20UI-14B8A6?style=flat-square" alt="Geospatial UI" />
         <img src="https://img.shields.io/badge/Focus-Data%20Viz-F59E0B?style=flat-square" alt="Data Viz" />
+        <img src="https://img.shields.io/badge/%F0%9F%94%92-Private%20Repo-374151?style=flat-square" alt="Private Repo" />
       </p>
       <ul>
         <li>Geospatial environmental intelligence and map-based analytics platform.</li>
@@ -272,10 +313,11 @@ aniket@security-ops:~# cat profile.json
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>⏱️ <a href="https://github.com/Aniket886/Date-Time-Offset-Application">Date-Time Offset Utility</a></h4>
+      <h4>⏱️ Date-Time Offset Utility</h4>
       <p>
         <img src="https://img.shields.io/badge/Utility%20App-A855F7?style=flat-square" alt="Utility App" />
         <img src="https://img.shields.io/badge/Status-Shipped-22C55E?style=flat-square" alt="Status Shipped" />
+        <img src="https://img.shields.io/badge/%F0%9F%94%92-Private%20Repo-374151?style=flat-square" alt="Private Repo" />
       </p>
       <ul>
         <li>Precision temporal offset calculations and cross-timezone conversions.</li>
@@ -285,9 +327,9 @@ aniket@security-ops:~# cat profile.json
   </tr>
 </table>
 
----
+<a id="credentials"></a>
 
-### 🏆 Credentials, Honors & Certifications
+## 🏆 `0x05` // Credentials, Honors & Certifications
 
 <div align="center">
   <p>
@@ -347,25 +389,25 @@ aniket@security-ops:~# cat profile.json
         <br /><strong>Veteran Milestone</strong>
       </td>
       <td width="165" valign="bottom">
-        <img src="./badges/capability-score-D4rkMatrix (1).png" width="135" alt="Capability Score" />
+        <img src="./badges/capability-score-D4rkMatrix%20(1).png" width="135" alt="Capability Score" />
         <br /><strong>THM Capability Score</strong>
       </td>
     </tr>
   </table>
 </div>
 
----
+<a id="telemetry"></a>
 
-### 📊 Live Telemetry & Activity
+## 📊 `0x06` // Live Telemetry & Activity
 
 <div align="center">
 
-  <!-- GitHub Streak -->
+  <!-- GitHub Streak (auto-generated by .github/workflows/update-streak.yml) -->
   <p>
     <img src="./assets/github-streak.svg" width="80%" alt="Live GitHub Contribution Streak" />
   </p>
 
-  <!-- Contribution Snake Animation -->
+  <!-- Contribution Snake (auto-generated by .github/workflows/generate-snake.yml) -->
   <p>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
@@ -376,29 +418,44 @@ aniket@security-ops:~# cat profile.json
 
 </div>
 
----
+<a id="connect"></a>
 
-### 🤝 Connect & Collaborate
+## 🤝 `0x07` // Connect & Collaborate
+
+<table width="100%">
+  <tr>
+    <td width="55%" valign="middle" align="center">
+      <p><em>"Where Curiosity Meets Cybersecurity."</em></p>
+      <p>
+        I am actively open to collaborations in <strong>Cybersecurity Research</strong>, <strong>Digital Forensics Tooling</strong>, <strong>Full-Stack Product Builds</strong>, and conducting <strong>Cyber Defense Training & Workshops via CYBER DRAVIDA</strong>.
+      </p>
+      <a href="https://www.cyberdravida.in" target="_blank">
+        <img src="https://img.shields.io/badge/Visit-cyberdravida.in-00E5FF?style=for-the-badge&logo=shieldsdotio&logoColor=black" alt="Visit cyberdravida.in" />
+      </a>
+      <a href="mailto:aniket.gmu@gmail.com">
+        <img src="https://img.shields.io/badge/Get%20in%20Touch-111827?style=for-the-badge&logo=minutemailer&logoColor=38BDF8" alt="Get In Touch" />
+      </a>
+      <br /><br />
+      <a href="https://www.buymeacoffee.com/aniket_tegginamath" target="_blank">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me A Coffee" />
+      </a>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <img src="./assets/cyber-builder-scene.svg" width="100%" alt="Animated cyber builder workspace" />
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><strong>🎮 Off-duty mode — when I lose a game</strong></summary>
+  <br />
+  <div align="center">
+    <img src="./assets/when-i-lose-a-game.gif" width="320" alt="When I lose a game" />
+  </div>
+</details>
 
 <div align="center">
-  <p>
-    <em>"Where Curiosity Meets Cybersecurity."</em>
-  </p>
-
-  <p>
-    I am actively open to collaborations in <strong>Cybersecurity Research</strong>, <strong>Digital Forensics Tooling</strong>, <strong>Full-Stack Product Builds</strong>, and conducting <strong>Cyber Defense Training & Workshops via CYBER DRAVIDA</strong>.
-  </p>
-
-  <a href="https://www.cyberdravida.in" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-cyberdravida.in-00E5FF?style=for-the-badge&logo=shield&logoColor=black" alt="Visit cyberdravida.in" />
-  </a>
-  <a href="mailto:aniket.gmu@gmail.com">
-    <img src="https://img.shields.io/badge/Get%20in%20Touch-111827?style=for-the-badge&logo=minutemailer&logoColor=38BDF8" alt="Get In Touch" />
-  </a>
-  <a href="https://www.buymeacoffee.com/aniket_tegginamath" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me A Coffee" />
-  </a>
-
-  <br /><br />
-  <sub>Founded &amp; Engineered by <strong>Aniket Tegginamath</strong> • CYBER DRAVIDA • 2026</sub>
+  <br />
+  <sub>Founded &amp; Engineered by <strong>Aniket Tegginamath</strong> • CYBER DRAVIDA • 2026 • <a href="#whoami">↑ back to top</a></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:A855F7,50:1F6FEB,100:00FF9C" width="100%" alt="" />
 </div>
